@@ -115,6 +115,12 @@ PS C:\Users\Vinn> open https://github.com/vinn-devv
   <a href="https://github.com/vinn-devv">
     <img src="https://img.shields.io/badge/github-vinn--devv-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00ff41" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/renzo-dev/">
+  <img src="https://img.shields.io/badge/linkedin-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000&color=00ff41" alt="LinkedIn" />
+</a>
+  <a href="mailto:rens.gitlab@gmail.com">
+  <img src="https://img.shields.io/badge/email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000&color=00ff41" alt="Email" />
+</a>
 </p>
 
 <p align="center">
