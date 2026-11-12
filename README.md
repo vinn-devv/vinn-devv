@@ -1,139 +1,22 @@
-<div align="center">
+<p align="center">
+  <img src="./banner-github.gif" width="100%" alt="Animated profile banner" />
+</p>
 
-<img src="https://media1.tenor.com/m/gm6gHF_xp_cAAAAd/cat-rolling-cat-roll.gif" width="100%" alt="Looping rolling cat banner">
+# About Me:
+🎓 BSIT Student | Specializing in Web & Mobile Application Development<br><br>💻 Aspiring Software Engineer | Expanding skills in full-stack architecture, algorithms, and system design<br><br>📱 App & Web Developer | Building functional, scalable, and real-world digital applications<br><br>🚀 Projects & Engineering | Bridging hands-on application development with core engineering principles<br><br>🌱 Continuous Learner | Always exploring new technologies, paradigms, and best practices
 
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=my+name+is+vinn...;BSIT+student+%7C+Web+%26+Mobile+Developer;building+things+one+commit+at+a+time" alt="Typing terminal introduction">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzo-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rens.gitlab@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vinn-devv&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vinn-devv&theme=maroongold&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinn-devv&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vinn-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<table>
-<tr><td>
-
-```bash
-vinn@github:~$ whoami
-vinn
-
-vinn@github:~$ cat about.txt
-BSIT student focused on web and mobile development.
-I enjoy building useful apps, learning by shipping,
-and turning ideas into working projects.
-
-vinn@github:~$ echo $CURRENT_FOCUS
-React Native • Expo • TypeScript • PHP
-
-vinn@github:~$ _
-```
-
-</td></tr>
-</table>
-
-</div>
-
-## <code>~/projects</code>
-
-```text
-.
-├── gastador/          # Local-first student allowance & expense tracker
-├── AKAP-Management/   # PWD member management system
-├── inventra/          # PHP & MySQL inventory management system
-├── Paw-Reflex/        # JavaScript reaction-time game
-├── profile-finder/    # GitHub user and repository finder
-└── weather-app/       # Weather dashboard using Open-Meteo
-```
-
-| Project | Description |
-|:--|:--|
-| [Gastador](https://github.com/vinn-devv/gastador) | Android allowance and expense tracker built with React Native, Expo and SQLite |
-| [AKAP Management System](https://github.com/vinn-devv/AKAP-Management-System) | Member records and administration system |
-| [Inventra](https://github.com/vinn-devv/inventra) | Inventory management system using PHP and MySQL |
-| [Paw Reflex](https://github.com/vinn-devv/javascript-reaction-challenge) | Pixel-art reaction-time game |
-| [GitHub Profile Finder](https://github.com/vinn-devv/javascript-github-profile-finder) | Search GitHub users and browse public repositories |
-| [Weather App](https://github.com/vinn-devv/Weather-App) | Weather dashboard using Open-Meteo |
-
-## <code>~/tech-stack</code>
-
-```yaml
-languages:
-  - JavaScript
-  - TypeScript
-  - PHP
-  - HTML5
-  - CSS3
-  - SQL
-
-frameworks_and_platforms:
-  - React
-  - React Native
-  - Expo
-  - Expo Router
-  - Express.js
-  - Vite
-  - Tailwind CSS
-
-libraries:
-  - React Navigation
-  - React Native Reanimated
-  - Gesture Handler
-  - Expo SQLite
-  - Lottie
-  - React Native SVG
-  - Expo Camera
-  - Expo Image Picker
-  - Expo Blur
-  - Expo Linear Gradient
-  - Expo Haptics
-  - React Native WebView
-
-servers_and_databases:
-  - Node.js
-  - Apache
-  - PostgreSQL
-  - MySQL
-  - MariaDB
-  - SQLite
-
-tools:
-  - Git
-  - GitHub
-  - GitHub Actions
-  - GitHub Pages
-  - Expo Application Services
-  - npm
-  - VS Code
-  - Figma
-  - ESLint
-```
-
-## <code>~/activity</code>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinn-devv&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages">
-
-<img src="https://streak-stats.demolab.com?user=vinn-devv&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak">
-
-</div>
-
-## <code>~/links</code>
-
-```bash
-vinn@github:~$ ls links/
-github  gastador
-
-vinn@github:~$ open https://github.com/vinn-devv
-```
-
-<div align="center">
-
-[GitHub](https://github.com/vinn-devv) · [Gastador](https://github.com/vinn-devv/gastador) · [Email](mailto:rens.gitlab@gmail.com)
-
-<sub>Vinn · built with curiosity, coffee, and commits.</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
