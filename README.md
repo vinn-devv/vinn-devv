@@ -3,11 +3,11 @@
 <img src="./matrix-hands-banner.gif" width="100%" alt="Matrix code rain banner with the name VINN" />
 
 <a href="https://github.com/vinn-devv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=My+name+is+Vinn...;I'm+a+BSIT+student+from+the+Philippines;I+build+mobile+apps+with+React+Native+and+Expo;Becoming+a+strong+software+engineer" alt="Typing animation introducing Vinn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=My+name+is+Vinn...;I'm+a+BSIT+student+from+the+Philippines;I+build+web+and+mobile+apps;Full-Stack+Software+Engineer" alt="Typing animation introducing Vinn" />
 </a>
 
 <img src="https://img.shields.io/badge/shell-bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=000000&color=00ff41" alt="bash" />
-<img src="https://img.shields.io/badge/role-full--stack%20engineer-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000&color=00ff41" alt="role" />
+<img src="https://img.shields.io/badge/role-full--stack%20software%20engineer-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000&color=00ff41" alt="role" />
 <img src="https://img.shields.io/badge/status-learning%20%26%20building-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000&color=00ff41" alt="status" />
 
 </div>
