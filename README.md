@@ -2,57 +2,8 @@
   <img src="./banner-github.gif" width="100%" alt="Animated profile banner" />
 </p>
 
-<table width="100%" cellpadding="12" cellspacing="0" bgcolor="#000000" style="background-color:#000000; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
-  <tr>
-    <td bgcolor="#000000" style="background-color:#000000;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td align="left">
-            <table cellpadding="6" cellspacing="0" bgcolor="#161b22" style="background-color:#161b22; border-radius:8px;">
-              <tr>
-                <td>
-                  <span style="color:#ff5f56">🔴</span>&nbsp;
-                  <span style="color:#ffbd2e">🟡</span>&nbsp;
-                  <span style="color:#27c93f">🟢</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td align="right">
-            <table cellpadding="6" cellspacing="0" bgcolor="#161b22" style="background-color:#161b22; border-radius:8px;">
-              <tr>
-                <td>
-                  <span style="color:#8b949e">bash</span>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-      <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&duration=3500&pause=1200&color=00FF66&repeat=true&width=420&lines=%24+My+name+is+Vinn..." alt="$ My name is Vinn..." />
-      </p>
-    </td>
-  </tr>
-</table>
-
-## About Me
-
-```console
-┌──(vinn@github)-[~/about]
-└─$ whoami
-   BSIT student focused on web and mobile development.
-
-└─$ cat /etc/role
-   Developer building practical applications and real-world projects.
-
-└─$ cat /etc/current-focus
-   Full-stack development • Software engineering • System design
-
-└─$ echo $MINDSET
-   Learn continuously. Build with purpose. Improve every day.
-```
-
+# About Me:
+🎓 BSIT Student | Specializing in Web & Mobile Application Development<br><br>💻 Aspiring Software Engineer | Expanding skills in full-stack architecture, algorithms, and system design<br><br>📱 App & Web Developer | Building functional, scalable, and real-world digital applications<br><br>🚀 Projects & Engineering | Bridging hands-on application development with core engineering principles<br><br>🌱 Continuous Learner | Always exploring new technologies, paradigms, and best practices
 
 
 ## 🌐 Socials:
