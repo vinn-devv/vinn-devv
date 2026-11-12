@@ -2,18 +2,30 @@
   <img src="./banner-github.gif" width="100%" alt="Animated profile banner" />
 </p>
 
-<table width="100%" cellpadding="12" cellspacing="0">
+<table width="100%" cellpadding="12" cellspacing="0" bgcolor="#000000" style="background-color:#000000; border:1px solid #30363d; border-radius:14px; overflow:hidden;">
   <tr>
-    <td bgcolor="#0d1117">
+    <td bgcolor="#000000" style="background-color:#000000;">
       <table width="100%" cellpadding="0" cellspacing="0">
         <tr>
           <td align="left">
-            <span style="color:#ff5f56">🔴</span>&nbsp;
-            <span style="color:#ffbd2e">🟡</span>&nbsp;
-            <span style="color:#27c93f">🟢</span>
+            <table cellpadding="6" cellspacing="0" bgcolor="#161b22" style="background-color:#161b22; border-radius:8px;">
+              <tr>
+                <td>
+                  <span style="color:#ff5f56">🔴</span>&nbsp;
+                  <span style="color:#ffbd2e">🟡</span>&nbsp;
+                  <span style="color:#27c93f">🟢</span>
+                </td>
+              </tr>
+            </table>
           </td>
           <td align="right">
-            <span style="color:#8b949e">bash</span>
+            <table cellpadding="6" cellspacing="0" bgcolor="#161b22" style="background-color:#161b22; border-radius:8px;">
+              <tr>
+                <td>
+                  <span style="color:#8b949e">bash</span>
+                </td>
+              </tr>
+            </table>
           </td>
         </tr>
       </table>
