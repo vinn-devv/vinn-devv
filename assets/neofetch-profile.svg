@@ -6850,8 +6850,9 @@
 <text x="400" y="208"><tspan fill="#00ff41" font-weight="bold">Role</tspan><tspan fill="#c9d1d9">: Full-Stack Software Engineer</tspan></text>
 
 <text x="400" y="234"><tspan fill="#00ff41" font-weight="bold">Location</tspan><tspan fill="#c9d1d9">: Philippines</tspan></text>
-<text x="400" y="260"><tspan fill="#00ff41" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9">: React Native, Expo, TypeScript, SQLite</tspan></text>
-<text x="400" y="312"><tspan fill="#00ff41" font-weight="bold">Shell</tspan><tspan fill="#c9d1d9">: bash</tspan></text>
+<text x="400" y="260"><tspan fill="#00ff41" font-weight="bold">Languages</tspan><tspan fill="#c9d1d9" font-size="14">: JavaScript, TypeScript, PHP, SQL</tspan></text>
+<text x="400" y="284"><tspan fill="#c9d1d9" font-size="14">  HTML5, CSS3</tspan></text>
+<text x="400" y="308"><tspan fill="#00ff41" font-weight="bold">Shell</tspan><tspan fill="#c9d1d9">: bash</tspan></text>
 <text x="400" y="364" fill="#5f9f70">[ SYSTEM PROFILE LOADED ]</text>
 <g transform="translate(400 388)">
 <rect x="0" y="0" width="27" height="18" rx="2" fill="#1a1a1a"/>
