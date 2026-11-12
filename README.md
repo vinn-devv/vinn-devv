@@ -2,9 +2,21 @@
   <img src="./banner-github.gif" width="100%" alt="Animated profile banner" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&repeat=true&width=420&lines=My+name+is+Vinn" alt="My name is Vinn" />
-</p>
+<table width="100%" cellpadding="12" cellspacing="0">
+  <tr>
+    <td bgcolor="#111111">
+      <p align="left">
+        <span style="color:#ff5f56">●</span>&nbsp;
+        <span style="color:#ffbd2e">●</span>&nbsp;
+        <span style="color:#27c93f">●</span>
+        <span style="color:#b7b7b7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash</span>
+      </p>
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&duration=3500&pause=1200&color=00FF66&repeat=true&width=420&lines=%24+My+name+is+Vinn..." alt="$ My name is Vinn..." />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
@@ -22,6 +34,7 @@
 └─$ echo $MINDSET
    Learn continuously. Build with purpose. Improve every day.
 ```
+
 
 
 ## 🌐 Socials:
