@@ -96,10 +96,10 @@ def main():
         row = y_positions[y]
         intensity = level(grid[column][row])
         fill = COLORS[intensity]
-        attrs_text = re.sub(r'\\bfill="[^"]*"', f'fill="{fill}"', attrs_text, count=1)
-        attrs_text = re.sub(r'\\s+filter="[^"]*"', "", attrs_text)
+        attrs_text = re.sub(r'\bfill="[^"]*"', f'fill="{fill}"', attrs_text, count=1)
+        attrs_text = re.sub(r'\s+filter="[^"]*"', "", attrs_text)
         inner = re.sub(
-            r'<animate\\b(?=[^>]*attributeName="fill")[^>]*/>', "", inner
+            r'<animate\b(?=[^>]*attributeName="fill")[^>]*/>', "", inner
         )
         if intensity == 4:
             attrs_text += ' filter="url(#glow)"'
@@ -113,7 +113,7 @@ def main():
         return "<rect" + attrs_text + ">" + inner + "</rect>"
 
     content = re.sub(
-        r"<rect\\b([^>]*)>(.*?)</rect>", update_cell, content, flags=re.S
+        r"<rect\b([^>]*)>(.*?)</rect>", update_cell, content, flags=re.S
     )
     expected = WEEKS * 7
     if updated != expected:
