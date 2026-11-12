@@ -113,7 +113,7 @@ def main():
         return "<rect" + attrs_text + ">" + inner + "</rect>"
 
     content = re.sub(
-        r"<rect\b([^>]*)>(.*?)</rect>", update_cell, content, flags=re.S
+        r"<rect\b((?:(?!/>)[^>])*)>(.*?)</rect>", update_cell, content, flags=re.S
     )
     expected = WEEKS * 7
     if updated != expected:
