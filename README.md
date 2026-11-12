@@ -46,6 +46,7 @@ vinn@github:~$ tree ~/stack
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff41" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" alt="CSS3" />
 </p>
@@ -56,14 +57,22 @@ vinn@github:~$ tree ~/stack
   <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00ff41" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=00ff41" alt="Expo" />
   <img src="https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge&logo=expo&logoColor=00ff41" alt="Expo Router" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00ff41" alt="Express.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff41" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00ff41" alt="Vite" />
+</p>
+
+<p align="center"><b>Backend & Services</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00ff41" alt="Supabase" />
 </p>
 
 <p align="center"><b>Databases & Storage</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff41" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41" alt="PostgreSQL" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
@@ -72,6 +81,8 @@ vinn@github:~$ tree ~/stack
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=00ff41" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Expo_CLI-000000?style=for-the-badge&logo=expo&logoColor=00ff41" alt="Expo CLI" />
+  <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=00ff41" alt="npm" />
 </p>
 
 <div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
