@@ -15,20 +15,33 @@
 
 ### <img src="https://img.shields.io/badge/01-NEOFETCH-0d1117?style=flat-square&labelColor=238636" alt="Neofetch" />
 
-```text
-        .--.             vinn@github
-       |o_o |            ------------------------------
-       |:_/ |            USER       : vinn-devv
-      //   \\           ROLE       : Frontend / Full-Stack
-     (|     | )          EDUCATION  : BSIT Student
-    /'\\_   _/`\\          LOCATION   : Philippines
-    \\___)=(_/            STACK      : PHP, MySQL, JavaScript,
-                                   TypeScript, HTML, CSS
-                         GOAL       : Become a strong Software
-                                      Engineer after graduation
-                         STATUS     : Learning • Building • Growing
-                         GITHUB     : github.com/vinn-devv
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="34%">
+        <pre>
+       .--.
+      |o_o |
+      |:_/ |
+     //   \\
+    (|     | )
+   /'\\_   _/`\\
+   \\___)=(___/
+        </pre>
+      </td>
+      <td>
+        <p><img src="https://img.shields.io/badge/USER-vinn--devv-3fb950?style=flat-square&labelColor=0d1117" alt="User" /></p>
+        <p><img src="https://img.shields.io/badge/ROLE-Frontend%20%2F%20Full--Stack-c9d1d9?style=flat-square&labelColor=238636" alt="Role" /></p>
+        <p><img src="https://img.shields.io/badge/EDUCATION-BSIT%20Student-c9d1d9?style=flat-square&labelColor=238636" alt="Education" /></p>
+        <p><img src="https://img.shields.io/badge/LOCATION-Philippines-c9d1d9?style=flat-square&labelColor=238636" alt="Location" /></p>
+        <p><img src="https://img.shields.io/badge/STACK-PHP%20%7C%20MySQL%20%7C%20JS%20%7C%20TS-c9d1d9?style=flat-square&labelColor=238636" alt="Stack" /></p>
+        <p><img src="https://img.shields.io/badge/ALSO-HTML%20%7C%20CSS-c9d1d9?style=flat-square&labelColor=238636" alt="Also uses HTML and CSS" /></p>
+        <p><img src="https://img.shields.io/badge/GOAL-Strong%20Software%20Engineer-3fb950?style=flat-square&labelColor=0d1117" alt="Goal" /></p>
+        <p><img src="https://img.shields.io/badge/GITHUB-vinn--devv-58a6ff?style=flat-square&labelColor=0d1117" alt="GitHub" /></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### <img src="https://img.shields.io/badge/02-~%2Fprojects-0d1117?style=flat-square&labelColor=238636" alt="Projects" />
 
