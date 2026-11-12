@@ -5,8 +5,8 @@
 <rect x="1" y="1" width="898" height="468" rx="12" fill="#0a0f0b" stroke="#00ff41" stroke-opacity="0.55" stroke-width="2"/>
 <path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v26H1z" fill="#0f1a12"/>
 <circle cx="26" cy="22" r="6" fill="#ff5f56"/><circle cx="48" cy="22" r="6" fill="#ffbd2e"/><circle cx="70" cy="22" r="6" fill="#27c93f"/>
-<text x="450" y="27" font-family="monospace" font-size="14" fill="#6fbf84" text-anchor="middle">vinn@github: ~</text>
-<text x="28" y="56" font-family="monospace" font-size="16" fill="#00ff41" xml:space="preserve">vinn@github<tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ neofetch</tspan></text>
+<text x="450" y="27" font-family="monospace" font-size="14" fill="#6fbf84" text-anchor="middle">PS C:\Users\Vinn</text>
+<text x="28" y="56" font-family="monospace" font-size="16" fill="#00ff41" xml:space="preserve">PS C:\Users\Vinn<tspan fill="#c9d1d9">&gt; neofetch</tspan></text>
 <g transform="translate(24 74)">
 <g opacity="1"><set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/>
 <text class="p c1" x="1.6" y="2.8">5</text>
@@ -6852,7 +6852,7 @@
 <text x="400" y="234"><tspan fill="#00ff41" font-weight="bold">Location</tspan><tspan fill="#c9d1d9">: Philippines</tspan></text>
 <text x="400" y="260"><tspan fill="#00ff41" font-weight="bold">Languages</tspan><tspan fill="#c9d1d9" font-size="14">: JavaScript, TypeScript, PHP, SQL</tspan></text>
 <text x="400" y="284"><tspan fill="#c9d1d9" font-size="14">  HTML5, CSS3</tspan></text>
-<text x="400" y="308"><tspan fill="#00ff41" font-weight="bold">Shell</tspan><tspan fill="#c9d1d9">: bash</tspan></text>
+<text x="400" y="308"><tspan fill="#00ff41" font-weight="bold">Shell</tspan><tspan fill="#c9d1d9">: PowerShell</tspan></text>
 <text x="400" y="364" fill="#5f9f70">[ SYSTEM PROFILE LOADED ]</text>
 <g transform="translate(400 388)">
 <rect x="0" y="0" width="27" height="18" rx="2" fill="#1a1a1a"/>
@@ -6864,6 +6864,6 @@
 <rect x="180" y="0" width="27" height="18" rx="2" fill="#39d0d6"/>
 <rect x="210" y="0" width="27" height="18" rx="2" fill="#c9d1d9"/>
 </g>
-<text x="28" y="446" fill="#00ff41">vinn@github<tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<text x="28" y="446" fill="#00ff41">PS C:\Users\Vinn<tspan fill="#c9d1d9">&gt; </tspan></text>
 <rect x="187" y="431" width="10" height="18" fill="#00ff41"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
 </g></svg>
