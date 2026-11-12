@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/USER-vinn--devv-0d1117?style=for-the-badge&labelColor=0d1117&color=238636" alt="vinn-devv" />
-<img src="https://img.shields.io/badge/SHELL-bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950&labelColor=0d1117" alt="Bash" />
-<img src="https://img.shields.io/badge/STATUS-online-0d1117?style=for-the-badge&labelColor=0d1117&color=238636" alt="Status online" />
+<img src="https://img.shields.io/badge/vinn--devv-0d1117?style=for-the-badge&logo=linux&logoColor=3fb950&labelColor=0d1117" alt="vinn-devv Linux terminal" />
+<img src="https://img.shields.io/badge/shell-bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950&labelColor=0d1117" alt="Bash shell" />
 
 # `vinn-devv@github:~$`
 
 **Frontend / Full-Stack Engineer · BSIT Student**
 
-<code style="color:#3fb950">[ BUILDING ]</code> <code style="color:#58a6ff">[ LEARNING ]</code> <code style="color:#a371f7">[ IMPROVING ]</code>
+`[ BUILDING ]` &nbsp; `[ LEARNING ]` &nbsp; `[ IMPROVING ]`
 
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/01-NEOFETCH-0d1117?style=flat-square&labelColor=238636" alt="01 Neofetch" />
+### <img src="https://img.shields.io/badge/01-NEOFETCH-0d1117?style=flat-square&labelColor=238636" alt="Neofetch" />
 
 ```text
         .--.             vinn@github
@@ -31,9 +30,13 @@
                          GITHUB     : github.com/vinn-devv
 ```
 
-### <img src="https://img.shields.io/badge/02-~%2Fprojects-0d1117?style=flat-square&labelColor=238636" alt="02 Projects" />
+### <img src="https://img.shields.io/badge/02-~%2Fprojects-0d1117?style=flat-square&labelColor=238636" alt="Projects" />
 
-| PROJECT | DESCRIPTION |
+```bash
+$ ls -la ~/projects
+```
+
+| REPOSITORY | DESCRIPTION |
 |:--|:--|
 | [gastador](https://github.com/vinn-devv/gastador) | Student allowance and budget tracker |
 | [Weather-App](https://github.com/vinn-devv/Weather-App) | Weather application |
@@ -42,7 +45,11 @@
 | [My-To-do-List](https://github.com/vinn-devv/My-To-do-List) | Simple to-do list application |
 | [inventra](https://github.com/vinn-devv/inventra) | PHP/MySQL inventory management system |
 
-### <img src="https://img.shields.io/badge/03-~%2Fstack-0d1117?style=flat-square&labelColor=238636" alt="03 Stack" />
+### <img src="https://img.shields.io/badge/03-~%2Fstack-0d1117?style=flat-square&labelColor=238636" alt="Stack" />
+
+```bash
+$ cat ~/stack/technologies
+```
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -53,28 +60,35 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### <img src="https://img.shields.io/badge/04-~%2Fstats-0d1117?style=flat-square&labelColor=238636" alt="04 Stats" />
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinn-devv&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</div>
-
-### <img src="https://img.shields.io/badge/05-~%2Fcontributions-0d1117?style=flat-square&labelColor=238636" alt="05 Contributions" />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinn-devv&bg_color=0d1117&color=3fb950&line=238636&point=58a6ff&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
-</div>
-
-### <img src="https://img.shields.io/badge/06-~%2Flinks-0d1117?style=flat-square&labelColor=238636" alt="06 Links" />
+### <img src="https://img.shields.io/badge/04-~%2Fgithub--stats-0d1117?style=flat-square&labelColor=238636" alt="GitHub stats" />
 
 ```bash
-$ github --open vinn-devv
-https://github.com/vinn-devv
+$ github --stats vinn-devv
+```
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinn-devv&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=58a6ff" alt="Live GitHub statistics for vinn-devv" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Most used programming languages" />
+</div>
+
+### <img src="https://img.shields.io/badge/05-~%2Fcontributions-0d1117?style=flat-square&labelColor=238636" alt="Contributions" />
+
+```bash
+$ git log --graph --all --oneline
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinn-devv&bg_color=0d1117&color=c9d1d9&line=238636&point=3fb950&area=true&area_color=238636&title_color=3fb950&hide_border=true" width="100%" alt="Live GitHub contribution activity for vinn-devv" />
+</div>
+
+### <img src="https://img.shields.io/badge/06-~%2Flinks-0d1117?style=flat-square&labelColor=238636" alt="Links" />
+
+```bash
+$ open https://github.com/vinn-devv
 ```
 
 <div align="center">
 
-<sub><code style="color:#3fb950">vinn-devv@github</code>:<code>~</code>$ <code>while true; do learn && build && improve; done</code></sub>
+<sub><code>vinn-devv@github:~$</code> <code>while true; do learn && build && improve; done</code></sub>
 
 </div>
