@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
+<rect width="1000" height="330" rx="18" fill="#080d0a" stroke="#285b37" stroke-width="2"/>
+<path d="M18 0h964a18 18 0 0 1 18 18v30H0V18A18 18 0 0 1 18 0Z" fill="#111a14"/>
+<circle cx="26" cy="24" r="6" fill="#ff5f56"/><circle cx="48" cy="24" r="6" fill="#ffbd2e"/><circle cx="70" cy="24" r="6" fill="#27c93f"/>
+<text x="500" y="29" text-anchor="middle" font-family="monospace" font-size="13" fill="#8ca995">vinn@github: ~/profile — neofetch</text>
+<g font-family="monospace" font-weight="bold">
+<g fill="#00ff41" font-size="18">
+<text x="55" y="104">       .--.</text><text x="55" y="126">      |o_o |</text><text x="55" y="148">      |:_/ |</text><text x="55" y="170">     //   \\</text><text x="55" y="192">    (|     | )</text><text x="55" y="214">    /'     '\</text><text x="55" y="236">    /_______\</text>
+</g>
+<text x="320" y="83" font-size="20" fill="#00ff41">vinn@github</text><path d="M320 94h610" stroke="#285b37" stroke-width="1.5"/>
+<g font-size="16">
+<text x="320" y="124" fill="#00ff41">ROLE</text><text x="440" y="124" fill="#c9d1d9">Frontend / Full-Stack Engineer</text>
+<text x="320" y="157" fill="#00ff41">STACK</text><text x="440" y="157" fill="#c9d1d9">PHP · MySQL · JavaScript · TypeScript · HTML · CSS</text>
+<text x="320" y="190" fill="#00ff41">EDUCATION</text><text x="440" y="190" fill="#c9d1d9">BSIT Student</text>
+<text x="320" y="223" fill="#00ff41">LOCATION</text><text x="440" y="223" fill="#c9d1d9">Philippines</text>
+<text x="320" y="256" fill="#00ff41">GOAL</text><text x="440" y="256" fill="#c9d1d9">Become a strong software engineer after graduation</text>
+</g></g>
+<rect x="320" y="278" width="610" height="26" rx="6" fill="#102317"/>
+<text x="335" y="296" font-family="monospace" font-size="13" fill="#70d98a">[ BUILDING ]  [ LEARNING ]  [ IMPROVING ]</text>
+</svg>
