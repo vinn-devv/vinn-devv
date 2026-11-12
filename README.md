@@ -61,8 +61,8 @@ vinn@github:~$ github --stats vinn-devv
 ```
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinn-devv&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5&icon_color=00ff41&ring_color=00ff41" alt="GitHub stats for vinn-devv" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=vinn-devv&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5&icon_color=00ff41&ring_color=00ff41" alt="GitHub stats for vinn-devv" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@ vinn@github:~$ git log --graph --all --oneline
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinn-devv&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/00ff41/vinn-devv" width="100%" alt="GitHub contributions calendar" />
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
