@@ -36,14 +36,9 @@
 $ ls -la ~/projects
 ```
 
-| REPOSITORY | DESCRIPTION |
-|:--|:--|
-| [gastador](https://github.com/vinn-devv/gastador) | Student allowance and budget tracker |
-| [Weather-App](https://github.com/vinn-devv/Weather-App) | Weather application |
-| [javascript-github-profile-finder](https://github.com/vinn-devv/javascript-github-profile-finder) | Search and explore GitHub profiles |
-| [javascript-reaction-challenge](https://github.com/vinn-devv/javascript-reaction-challenge) | JavaScript reaction-time challenge |
-| [My-To-do-List](https://github.com/vinn-devv/My-To-do-List) | Simple to-do list application |
-| [inventra](https://github.com/vinn-devv/inventra) | PHP/MySQL inventory management system |
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=vinn-devv&theme=github-dark" width="100%" alt="Live GitHub repositories displayed in a dark terminal window" />
+</div>
 
 ### <img src="https://img.shields.io/badge/03-~%2Fstack-0d1117?style=flat-square&labelColor=238636" alt="Stack" />
 
