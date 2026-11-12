@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-github.gif" width="100%" alt="Animated profile banner" />
+</p>
+
 # About Me:
 🎓 BSIT Student | Specializing in Web & Mobile Application Development<br><br>💻 Aspiring Software Engineer | Expanding skills in full-stack architecture, algorithms, and system design<br><br>📱 App & Web Developer | Building functional, scalable, and real-world digital applications<br><br>🚀 Projects & Engineering | Bridging hands-on application development with core engineering principles<br><br>🌱 Continuous Learner | Always exploring new technologies, paradigms, and best practices
 
