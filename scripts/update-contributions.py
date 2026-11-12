@@ -63,25 +63,14 @@ def main():
                 grid[week][weekday] = count
                 total += count
 
-    values = sorted(count for week in grid for count in week if count > 0)
-    if values:
-        # Keep five readable levels while adapting to the account's real activity.
-        q1 = values[max(0, (len(values) - 1) // 4)]
-        q2 = values[max(0, (len(values) - 1) // 2)]
-        q3 = values[max(0, (3 * (len(values) - 1)) // 4)]
-        thresholds = (q1, q2, q3)
-    else:
-        thresholds = (1, 2, 3)
-
     def level(count):
         if count <= 0:
             return 0
-        q1, q2, q3 = thresholds
-        if count <= q1:
+        if count <= 1:
             return 1
-        if count <= q2:
+        if count <= 3:
             return 2
-        if count <= q3:
+        if count <= 6:
             return 3
         return 4
 
