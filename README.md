@@ -1,102 +1,96 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/vinn--devv-0d1117?style=for-the-badge&logo=linux&logoColor=3fb950&labelColor=0d1117" alt="vinn-devv Linux terminal" />
-<img src="https://img.shields.io/badge/shell-bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950&labelColor=0d1117" alt="Bash shell" />
+<img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/matrix-banner.svg" width="100%" alt="Matrix code rain banner with the name VINN" />
 
-# `vinn-devv@github:~$`
+<a href="https://github.com/vinn-devv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=My+name+is+Vinn...;I'm+a+BSIT+student+from+the+Philippines;I+build+web+apps+with+PHP%2C+MySQL+and+JavaScript;Becoming+a+strong+software+engineer" alt="Typing animation introducing Vinn" />
+</a>
 
-**Frontend / Full-Stack Engineer · BSIT Student**
+<img src="https://img.shields.io/badge/shell-bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=000000&color=00ff41" alt="bash" />
+<img src="https://img.shields.io/badge/role-frontend%20%2F%20full--stack-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000&color=00ff41" alt="role" />
+<img src="https://img.shields.io/badge/status-learning%20%26%20building-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000&color=00ff41" alt="status" />
 
-`[ BUILDING ]` &nbsp; `[ LEARNING ]` &nbsp; `[ IMPROVING ]`
+<img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" />
 
 </div>
-
----
-
-### <img src="https://img.shields.io/badge/01-NEOFETCH-0d1117?style=flat-square&labelColor=238636" alt="Neofetch" />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="34%">
-        <pre>
-       .--.
-      |o_o |
-      |:_/ |
-     //   \\
-    (|     | )
-   /'\\_   _/`\\
-   \\___)=(___/
-        </pre>
-      </td>
-      <td>
-        <p><img src="https://img.shields.io/badge/USER-vinn--devv-3fb950?style=flat-square&labelColor=0d1117" alt="User" /></p>
-        <p><img src="https://img.shields.io/badge/ROLE-Frontend%20%2F%20Full--Stack-c9d1d9?style=flat-square&labelColor=238636" alt="Role" /></p>
-        <p><img src="https://img.shields.io/badge/EDUCATION-BSIT%20Student-c9d1d9?style=flat-square&labelColor=238636" alt="Education" /></p>
-        <p><img src="https://img.shields.io/badge/LOCATION-Philippines-c9d1d9?style=flat-square&labelColor=238636" alt="Location" /></p>
-        <p><img src="https://img.shields.io/badge/STACK-PHP%20%7C%20MySQL%20%7C%20JS%20%7C%20TS-c9d1d9?style=flat-square&labelColor=238636" alt="Stack" /></p>
-        <p><img src="https://img.shields.io/badge/ALSO-HTML%20%7C%20CSS-c9d1d9?style=flat-square&labelColor=238636" alt="Also uses HTML and CSS" /></p>
-        <p><img src="https://img.shields.io/badge/GOAL-Strong%20Software%20Engineer-3fb950?style=flat-square&labelColor=0d1117" alt="Goal" /></p>
-        <p><img src="https://img.shields.io/badge/GITHUB-vinn--devv-58a6ff?style=flat-square&labelColor=0d1117" alt="GitHub" /></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### <img src="https://img.shields.io/badge/02-~%2Fprojects-0d1117?style=flat-square&labelColor=238636" alt="Projects" />
 
 ```bash
-$ ls -la ~/projects
+vinn@github:~$ neofetch
 ```
 
 <div align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=vinn-devv&theme=github-dark" width="100%" alt="Live GitHub repositories displayed in a dark terminal window" />
+  <img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/neofetch.svg" width="100%" alt="neofetch style terminal showing Vinn's profile" />
 </div>
 
-### <img src="https://img.shields.io/badge/03-~%2Fstack-0d1117?style=flat-square&labelColor=238636" alt="Stack" />
+<div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ```bash
-$ cat ~/stack/technologies
+vinn@github:~$ ls -la ~/projects
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+| permissions | project | description |
+|:--|:--|:--|
+| `drwxr-xr-x` | [**gastador**](https://github.com/vinn-devv/gastador) | Allowance budget tracker for students |
+| `drwxr-xr-x` | [**Weather-App**](https://github.com/vinn-devv/Weather-App) | Weather app in vanilla HTML, CSS and JS |
+| `drwxr-xr-x` | [**inventra**](https://github.com/vinn-devv/inventra) | PHP and MySQL inventory management system |
+| `drwxr-xr-x` | [**javascript-reaction-challenge**](https://github.com/vinn-devv/javascript-reaction-challenge) | Reaction-time game |
+| `drwxr-xr-x` | [**javascript-github-profile-finder**](https://github.com/vinn-devv/javascript-github-profile-finder) | Search any GitHub profile |
+| `drwxr-xr-x` | [**My-To-do-List**](https://github.com/vinn-devv/My-To-do-List) | Simple to-do list app |
+
+<div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
+
+```bash
+vinn@github:~$ cat ~/stack/technologies
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff41" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
 </p>
 
-### <img src="https://img.shields.io/badge/04-~%2Fgithub--stats-0d1117?style=flat-square&labelColor=238636" alt="GitHub stats" />
+<div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ```bash
-$ github --stats vinn-devv
+vinn@github:~$ github --stats vinn-devv
 ```
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinn-devv&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=58a6ff" alt="Live GitHub statistics for vinn-devv" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinn-devv&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5&icon_color=00ff41&ring_color=00ff41" alt="GitHub stats for vinn-devv" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-devv&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages" />
 </div>
 
-### <img src="https://img.shields.io/badge/05-~%2Fcontributions-0d1117?style=flat-square&labelColor=238636" alt="Contributions" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vinn-devv&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=9dffb5&currStreakNum=9dffb5&sideNums=9dffb5&dates=4a8f5c" alt="GitHub streak" />
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ```bash
-$ git log --graph --all --oneline
+vinn@github:~$ git log --graph --all --oneline
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinn-devv&bg_color=0d1117&color=c9d1d9&line=238636&point=3fb950&area=true&area_color=238636&title_color=3fb950&hide_border=true" width="100%" alt="Live GitHub contribution activity for vinn-devv" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinn-devv&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" alt="Contribution activity graph" />
 </div>
 
-### <img src="https://img.shields.io/badge/06-~%2Flinks-0d1117?style=flat-square&labelColor=238636" alt="Links" />
+<div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ```bash
-$ open https://github.com/vinn-devv
+vinn@github:~$ open https://github.com/vinn-devv
 ```
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/vinn-devv">
+    <img src="https://img.shields.io/badge/github-vinn--devv-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00ff41" alt="GitHub" />
+  </a>
+</p>
 
-<sub><code>vinn-devv@github:~$</code> <code>while true; do learn && build && improve; done</code></sub>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=520&height=30&lines=while+true%3B+do+learn+%26%26+build+%26%26+improve%3B+done" alt="while true; do learn && build && improve; done" />
+</p>
