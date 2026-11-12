@@ -3,11 +3,11 @@
 <img src="./matrix-hands-banner.gif" width="100%" alt="Matrix code rain banner with the name VINN" />
 
 <a href="https://github.com/vinn-devv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=My+name+is+Vinn...;I'm+a+BSIT+student+from+the+Philippines;I+build+web+apps+with+PHP%2C+MySQL+and+JavaScript;Becoming+a+strong+software+engineer" alt="Typing animation introducing Vinn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=My+name+is+Vinn...;I'm+a+BSIT+student+from+the+Philippines;I+build+mobile+apps+with+React+Native+and+Expo;Becoming+a+strong+software+engineer" alt="Typing animation introducing Vinn" />
 </a>
 
 <img src="https://img.shields.io/badge/shell-bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=000000&color=00ff41" alt="bash" />
-<img src="https://img.shields.io/badge/role-frontend%20%2F%20full--stack-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000&color=00ff41" alt="role" />
+<img src="https://img.shields.io/badge/role-full--stack%20engineer-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000&color=00ff41" alt="role" />
 <img src="https://img.shields.io/badge/status-learning%20%26%20building-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000&color=00ff41" alt="status" />
 
 </div>
@@ -42,11 +42,11 @@ vinn@github:~$ cat ~/stack/technologies
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff41" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=00ff41" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=00ff41" alt="Expo" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff41" alt="SQLite" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
