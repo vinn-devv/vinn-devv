@@ -34,7 +34,7 @@
 </g>
 <circle cx="192" cy="226" r="87" fill="#00ff41" opacity=".14" filter="url(#glow)"/>
 <circle cx="192" cy="226" r="81" fill="#07110a" stroke="#00ff41" stroke-width="3"/>
-<image x="116" y="150" width="152" height="152" href="https://github.com/vinn-devv.png" xlink:href="https://github.com/vinn-devv.png" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+<text x="192" y="246" text-anchor="middle" font-family="monospace" font-size="78" font-weight="bold" fill="#00ff41" filter="url(#glow)">V</text>
 <circle cx="192" cy="226" r="81" fill="none" stroke="#c8ffd6" stroke-opacity=".5"/>
 <g font-family="monospace" font-size="16" xml:space="preserve">
 <text x="400" y="130" opacity="0"><set attributeName="opacity" to="1" begin=".8s" fill="freeze"/><tspan fill="#00ff41" font-weight="bold">vinn</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#00ff41" font-weight="bold">github</tspan></text>
