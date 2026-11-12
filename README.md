@@ -102,7 +102,7 @@ PS C:\Users\Vinn> git log --graph --all --oneline
 ```
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00ff41/vinn-devv" width="100%" alt="GitHub contributions calendar" />
+  <img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/matrix-contributions.svg" width="100%" alt="Matrix-style green GitHub contributions graph" />
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
