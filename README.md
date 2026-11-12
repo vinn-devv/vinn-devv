@@ -1,146 +1,77 @@
-<h1 align="center">Hey <img height="30" width="30" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt=""> I'm Vinn</h1>
+<div align="center">
 
-<p align="center">
-  <img src="./banner-github.gif" width="100%" alt="Animated GitHub profile banner">
-</p>
+<img src="https://media1.tenor.com/m/gm6gHF_xp_cAAAAd/cat-rolling-cat-roll.gif" width="100%" alt="Looping rolling cat banner">
 
-## 📌 About Me
+<br>
 
-- 🎓 BSIT student focused on web and mobile application development.
-- 💻 I build practical applications while strengthening my skills in software engineering and full-stack development.
-- 🚀 Currently working with React Native, Expo, TypeScript, Node.js, PHP, and SQL databases.
-- 🌱 Learning by building real projects, improving my problem-solving skills, and exploring better ways to design and develop software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=my+name+is+vinn...;BSIT+student+%7C+Web+%26+Mobile+Developer;building+things+one+commit+at+a+time" alt="Typing terminal introduction">
 
-## 🚀 Featured Projects
+</div>
 
-| Project | Description | Main Technologies |
-|:--|:--|:--|
-| [Gastador](https://github.com/vinn-devv/gastador) | A local-first student allowance and expense tracker for Android. | React Native, Expo, TypeScript, SQLite |
-| [AKAP Management System](https://github.com/vinn-devv/AKAP-Management-System) | An admin system for managing PWD member records. | Node.js, Express, PostgreSQL |
-| [Inventra](https://github.com/vinn-devv/inventra) | A web-based inventory management system. | PHP, MySQL, HTML, CSS, JavaScript |
-| [Paw Reflex](https://github.com/vinn-devv/javascript-reaction-challenge) | A pixel-art browser reaction-time game. | HTML, CSS, JavaScript |
-| [GitHub Profile Finder](https://github.com/vinn-devv/javascript-github-profile-finder) | Search GitHub users and explore their public repositories. | HTML, CSS, JavaScript, GitHub REST API |
-| [Weather App](https://github.com/vinn-devv/Weather-App) | A responsive weather app with current conditions and a five-day forecast. | HTML, Tailwind CSS, JavaScript, Open-Meteo API |
+---
 
-## 📊 GitHub Stats & Trophies
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://www.gitskins.com/api/section/stats?username=vinn-devv&theme=github-dark&mode=dark" alt="Vinn's GitHub stats">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=vinn-devv&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Vinn's GitHub streak">
-</p>
+<img src="https://www.gitskins.com/api/section/neofetch?username=vinn-devv&theme=github-dark&role=BSIT+Student+%7C+Web+and+Mobile+Developer&mode=dark" width="100%" alt="Vinn's terminal-style profile card">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=vinn-devv&theme=github-dark&mode=dark" alt="Most used languages">
-</p>
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=vinn-devv&theme=github-dark&mode=dark&pv=-xjP5NyaNViCjddI" alt="GitHub highlights">
-</p>
+## ~/projects
 
-<p align="center">
-  <img height="280" src="https://www.gitskins.com/api/section/heatmap?username=vinn-devv&theme=github-dark&mode=dark" alt="GitHub contribution activity">
-</p>
+<img src="https://www.gitskins.com/api/section/term-list?username=vinn-devv&mode=dark" width="100%" alt="Featured GitHub projects">
 
-## 🛠️ Languages & Tools
+- [gastador](https://github.com/vinn-devv/gastador) — Local-first student allowance and expense tracker for Android.
+- [AKAP Management System](https://github.com/vinn-devv/AKAP-Management-System) — PWD member management system with an admin portal.
+- [inventra](https://github.com/vinn-devv/inventra) — PHP and MySQL inventory management system.
+- [Paw Reflex](https://github.com/vinn-devv/javascript-reaction-challenge) — Pixel-art reaction-time game.
+- [GitHub Profile Finder](https://github.com/vinn-devv/javascript-github-profile-finder) — Search GitHub users and explore public repositories.
+- [Weather App](https://github.com/vinn-devv/Weather-App) — Weather dashboard powered by the Open-Meteo API.
 
-### Programming Languages
+## ~/stack
 
-<p align="center">
-  <img height="48" width="48" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="48" width="48" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="48" width="48" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img height="48" width="48" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="48" width="48" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="48" width="48" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</p>
+<img src="https://www.gitskins.com/api/section/term-stack?username=vinn-devv&mode=dark" width="100%" alt="Languages and technology stack">
 
-### Frontend & Mobile Development
+<details>
+<summary>Full technology list</summary>
 
-<p align="center">
-  <img height="48" width="48" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="48" width="48" alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="48" width="48" alt="Expo" src="https://cdn.simpleicons.org/expo/ffffff">
-  <img height="48" width="48" alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img height="48" width="48" alt="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-</p>
+**Languages:** JavaScript, TypeScript, PHP, HTML5, CSS3, SQL
 
-### Frameworks & Libraries
+**Frontend & mobile:** React, React Native, Expo, Expo Router, React Navigation, Vite, Tailwind CSS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Expo%20Router-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Router">
-  <img src="https://img.shields.io/badge/React%20Navigation-6B4EFF?style=flat-square&logo=reactnavigation&logoColor=white" alt="React Navigation">
-  <img src="https://img.shields.io/badge/React%20Native%20Reanimated-663399?style=flat-square&logo=react&logoColor=white" alt="React Native Reanimated">
-  <img src="https://img.shields.io/badge/Gesture%20Handler-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native Gesture Handler">
-  <img src="https://img.shields.io/badge/Expo%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="Expo SQLite">
-  <img src="https://img.shields.io/badge/Expo%20Camera-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Camera">
-  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottie&logoColor=white" alt="Lottie">
-  <img src="https://img.shields.io/badge/Expo%20Blur-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Blur">
-  <img src="https://img.shields.io/badge/Linear%20Gradient-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Linear Gradient">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</p>
+**Libraries:** React Native Reanimated, Gesture Handler, Expo SQLite, Camera, Image Picker, Blur, Linear Gradient, Haptics, Lottie, SVG, WebView
 
-### Backend & Runtime
+**Backend & servers:** Node.js, Express.js, Apache
 
-<p align="center">
-  <img height="48" width="48" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img height="48" width="48" alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img height="48" width="48" alt="Apache" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-</p>
+**Databases:** SQLite, PostgreSQL, MySQL, MariaDB
 
-### Databases
+**Platforms & services:** GitHub, GitHub Pages, GitHub Actions, Expo Application Services, Supabase, Render
 
-<p align="center">
-  <img height="48" width="48" alt="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img height="48" width="48" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img height="48" width="48" alt="MariaDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
-  <img height="48" width="48" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</p>
+**Tools & quality:** Git, npm, Visual Studio Code, Figma, ESLint, TypeScript compiler, Node.js test runner, Expo diagnostics
 
-### Platforms, Deployment & Services
+</details>
 
-<p align="center">
-  <img height="48" width="48" alt="GitHub Pages" src="https://cdn.simpleicons.org/githubpages/ffffff">
-  <img height="48" width="48" alt="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
-  <img height="48" width="48" alt="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
-  <img height="48" width="48" alt="Render" src="https://cdn.simpleicons.org/render/ffffff">
-  <img height="48" width="48" alt="Expo Application Services" src="https://cdn.simpleicons.org/expo/ffffff">
-</p>
+## ~/activity
 
-### Testing & Code Quality
+<img src="https://www.gitskins.com/api/section/term-log?username=vinn-devv&mode=dark" width="100%" alt="GitHub contribution activity">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js%20Test%20Runner-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js test runner">
-  <img src="https://img.shields.io/badge/TypeScript%20Type%20Checking-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript type checking">
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint">
-  <img src="https://img.shields.io/badge/Expo%20Diagnostics-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo diagnostics">
-</p>
+<div align="center">
 
-### Development & Design Tools
+<img src="https://streak-stats.demolab.com/?user=vinn-devv&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak">
 
-<p align="center">
-  <img height="48" width="48" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img height="48" width="48" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img height="48" width="48" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img height="48" width="48" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img height="48" width="48" alt="ESLint" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
-  <img height="48" width="48" alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-</p>
+</div>
 
-## 🔗 Connect with Me
+## ~/links
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/renzo-dev/">
-    <img height="40" alt="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">
-  </a>
-  <a href="mailto:rens.gitlab@gmail.com">
-    <img height="40" alt="Email" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinn-devv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</p>
+[GitHub](https://github.com/vinn-devv) · [Gastador](https://github.com/vinn-devv/gastador) · [Email](mailto:rens.gitlab@gmail.com)
 
-<p align="center">
-  <sub>Learning, building, and improving one project at a time.</sub>
-</p>
+<br>
+
+<sub>Vinn · built with curiosity, coffee, and commits.</sub>
+
+<br>
+
+<sub>Rolling cat GIF: <a href="https://tenor.com/view/cat-rolling-cat-roll-cat-somersault-gif-12607803">Tenor</a></sub>
+
+</div>
