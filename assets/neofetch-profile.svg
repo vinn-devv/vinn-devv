@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
 <style>.c0{fill:#0b3d1a}.c1{fill:#13702c}.c2{fill:#1fa642}.c3{fill:#2bd957}.c4{fill:#00ff41}.c5{fill:#c8ffd6}.p{font-family:monospace;font-size:4.8px;text-anchor:middle}</style>
-<defs><linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff41" stop-opacity="0"/><stop offset="1" stop-color="#00ff41" stop-opacity="0.35"/></linearGradient>
+<defs><linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff41" stop-opacity="1"/><stop offset="1" stop-color="#00ff41" stop-opacity="0.35"/></linearGradient>
 <clipPath id="pc"><rect x="24" y="60" width="335.92" height="335.92"/></clipPath></defs>
 <rect x="1" y="1" width="898" height="468" rx="12" fill="#0a0f0b" stroke="#00ff41" stroke-opacity="0.55" stroke-width="2"/>
 <path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v26H1z" fill="#0f1a12"/>
@@ -8,7 +8,7 @@
 <text x="450" y="27" font-family="monospace" font-size="14" fill="#6fbf84" text-anchor="middle">vinn@github: ~</text>
 <text x="28" y="56" font-family="monospace" font-size="16" fill="#00ff41" xml:space="preserve">vinn@github<tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ neofetch</tspan></text>
 <g transform="translate(24 74)">
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/>
 <text class="p c1" x="1.6" y="2.8">5</text>
 <text class="p c1" x="4.8" y="2.8">0</text>
 <text class="p c1" x="8.1" y="2.8">7</text>
@@ -113,7 +113,7 @@
 <text class="p c1" x="331.1" y="2.8">9</text>
 <text class="p c1" x="334.3" y="2.8">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.33s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.33s" fill="freeze"/>
 <text class="p c1" x="1.6" y="6.1">.</text>
 <text class="p c1" x="4.8" y="6.1">4</text>
 <text class="p c1" x="8.1" y="6.1">8</text>
@@ -217,7 +217,7 @@
 <text class="p c1" x="331.1" y="6.1">.</text>
 <text class="p c1" x="334.3" y="6.1">9</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.35s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.35s" fill="freeze"/>
 <text class="p c1" x="1.6" y="9.3">2</text>
 <text class="p c1" x="4.8" y="9.3">0</text>
 <text class="p c1" x="8.1" y="9.3">+</text>
@@ -321,7 +321,7 @@
 <text class="p c1" x="331.1" y="9.3">*</text>
 <text class="p c1" x="334.3" y="9.3">9</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.38s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.38s" fill="freeze"/>
 <text class="p c1" x="1.6" y="12.5">1</text>
 <text class="p c1" x="4.8" y="12.5">9</text>
 <text class="p c1" x="8.1" y="12.5">3</text>
@@ -423,7 +423,7 @@
 <text class="p c2" x="331.1" y="12.5">ｻ</text>
 <text class="p c1" x="334.3" y="12.5">5</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/>
 <text class="p c1" x="1.6" y="15.7">2</text>
 <text class="p c1" x="4.8" y="15.7">5</text>
 <text class="p c2" x="8.1" y="15.7">ﾏ</text>
@@ -526,7 +526,7 @@
 <text class="p c1" x="331.1" y="15.7">1</text>
 <text class="p c2" x="334.3" y="15.7">ﾈ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.42s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.42s" fill="freeze"/>
 <text class="p c1" x="1.6" y="19.0">6</text>
 <text class="p c1" x="4.8" y="19.0">7</text>
 <text class="p c2" x="8.1" y="19.0">7</text>
@@ -629,7 +629,7 @@
 <text class="p c2" x="331.1" y="19.0">ｼ</text>
 <text class="p c2" x="334.3" y="19.0">ﾘ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.45s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.45s" fill="freeze"/>
 <text class="p c1" x="1.6" y="22.2">+</text>
 <text class="p c2" x="4.8" y="22.2">ﾋ</text>
 <text class="p c2" x="8.1" y="22.2">6</text>
@@ -731,7 +731,7 @@
 <text class="p c2" x="331.1" y="22.2">ｿ</text>
 <text class="p c2" x="334.3" y="22.2">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.47s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.47s" fill="freeze"/>
 <text class="p c2" x="1.6" y="25.4">ｸ</text>
 <text class="p c2" x="4.8" y="25.4">ｶ</text>
 <text class="p c2" x="8.1" y="25.4">ﾛ</text>
@@ -833,7 +833,7 @@
 <text class="p c2" x="331.1" y="25.4">5</text>
 <text class="p c2" x="334.3" y="25.4">ﾛ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.50s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.50s" fill="freeze"/>
 <text class="p c2" x="1.6" y="28.7">ﾅ</text>
 <text class="p c2" x="4.8" y="28.7">ﾃ</text>
 <text class="p c2" x="8.1" y="28.7">ﾎ</text>
@@ -931,7 +931,7 @@
 <text class="p c2" x="331.1" y="28.7">5</text>
 <text class="p c2" x="334.3" y="28.7">ｷ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.53s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.53s" fill="freeze"/>
 <text class="p c2" x="1.6" y="31.9">ｶ</text>
 <text class="p c2" x="4.8" y="31.9">ﾓ</text>
 <text class="p c2" x="8.1" y="31.9">ｻ</text>
@@ -1025,7 +1025,7 @@
 <text class="p c2" x="331.1" y="31.9">ﾝ</text>
 <text class="p c2" x="334.3" y="31.9">ﾌ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.55s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.55s" fill="freeze"/>
 <text class="p c2" x="1.6" y="35.1">ﾂ</text>
 <text class="p c2" x="4.8" y="35.1">ｷ</text>
 <text class="p c2" x="8.1" y="35.1">6</text>
@@ -1119,7 +1119,7 @@
 <text class="p c1" x="331.1" y="35.1">.</text>
 <text class="p c2" x="334.3" y="35.1">ｳ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.57s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.57s" fill="freeze"/>
 <text class="p c2" x="1.6" y="38.4">ﾕ</text>
 <text class="p c2" x="4.8" y="38.4">ﾀ</text>
 <text class="p c3" x="8.1" y="38.4">ﾏ</text>
@@ -1209,7 +1209,7 @@
 <text class="p c1" x="331.1" y="38.4">8</text>
 <text class="p c1" x="334.3" y="38.4">9</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/>
 <text class="p c2" x="1.6" y="41.6">ﾖ</text>
 <text class="p c3" x="4.8" y="41.6">ﾝ</text>
 <text class="p c2" x="8.1" y="41.6">ﾔ</text>
@@ -1296,7 +1296,7 @@
 <text class="p c1" x="331.1" y="41.6">0</text>
 <text class="p c1" x="334.3" y="41.6">0</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.62s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.62s" fill="freeze"/>
 <text class="p c2" x="1.6" y="44.8">6</text>
 <text class="p c3" x="4.8" y="44.8">ﾂ</text>
 <text class="p c1" x="8.1" y="44.8">8</text>
@@ -1383,7 +1383,7 @@
 <text class="p c1" x="331.1" y="44.8">1</text>
 <text class="p c1" x="334.3" y="44.8">+</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.65s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.65s" fill="freeze"/>
 <text class="p c3" x="1.6" y="48.0">ﾈ</text>
 <text class="p c3" x="4.8" y="48.0">ﾘ</text>
 <text class="p c0" x="8.1" y="48.0">8</text>
@@ -1470,7 +1470,7 @@
 <text class="p c1" x="331.1" y="48.0">.</text>
 <text class="p c1" x="334.3" y="48.0">*</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.68s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.68s" fill="freeze"/>
 <text class="p c3" x="1.6" y="51.3">ﾋ</text>
 <text class="p c2" x="4.8" y="51.3">ﾀ</text>
 <text class="p c0" x="8.1" y="51.3">0</text>
@@ -1558,7 +1558,7 @@
 <text class="p c1" x="331.1" y="51.3">1</text>
 <text class="p c1" x="334.3" y="51.3">+</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.70s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.70s" fill="freeze"/>
 <text class="p c3" x="1.6" y="54.5">ﾄ</text>
 <text class="p c1" x="4.8" y="54.5">8</text>
 <text class="p c1" x="8.1" y="54.5">*</text>
@@ -1646,7 +1646,7 @@
 <text class="p c1" x="331.1" y="54.5">4</text>
 <text class="p c1" x="334.3" y="54.5">.</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.73s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.73s" fill="freeze"/>
 <text class="p c3" x="1.6" y="57.7">1</text>
 <text class="p c1" x="4.8" y="57.7">2</text>
 <text class="p c1" x="8.1" y="57.7">+</text>
@@ -1732,7 +1732,7 @@
 <text class="p c1" x="331.1" y="57.7">:</text>
 <text class="p c1" x="334.3" y="57.7">:</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.75s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.75s" fill="freeze"/>
 <text class="p c3" x="1.6" y="61.0">ﾆ</text>
 <text class="p c1" x="4.8" y="61.0">+</text>
 <text class="p c1" x="8.1" y="61.0">1</text>
@@ -1816,7 +1816,7 @@
 <text class="p c1" x="331.1" y="61.0">6</text>
 <text class="p c1" x="334.3" y="61.0">9</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.78s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.78s" fill="freeze"/>
 <text class="p c2" x="1.6" y="64.2">ﾂ</text>
 <text class="p c1" x="4.8" y="64.2">:</text>
 <text class="p c1" x="8.1" y="64.2">2</text>
@@ -1903,7 +1903,7 @@
 <text class="p c1" x="331.1" y="64.2">8</text>
 <text class="p c1" x="334.3" y="64.2">:</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.80s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.80s" fill="freeze"/>
 <text class="p c1" x="1.6" y="67.4">1</text>
 <text class="p c1" x="4.8" y="67.4">:</text>
 <text class="p c1" x="8.1" y="67.4">:</text>
@@ -1988,7 +1988,7 @@
 <text class="p c1" x="331.1" y="67.4">9</text>
 <text class="p c1" x="334.3" y="67.4">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.82s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.82s" fill="freeze"/>
 <text class="p c1" x="1.6" y="70.7">.</text>
 <text class="p c1" x="4.8" y="70.7">*</text>
 <text class="p c2" x="8.1" y="70.7">ﾑ</text>
@@ -2075,7 +2075,7 @@
 <text class="p c1" x="331.1" y="70.7">5</text>
 <text class="p c1" x="334.3" y="70.7">3</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.85s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.85s" fill="freeze"/>
 <text class="p c1" x="1.6" y="73.9">6</text>
 <text class="p c2" x="4.8" y="73.9">8</text>
 <text class="p c2" x="8.1" y="73.9">ﾐ</text>
@@ -2162,7 +2162,7 @@
 <text class="p c2" x="331.1" y="73.9">ﾚ</text>
 <text class="p c2" x="334.3" y="73.9">ﾂ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.88s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.88s" fill="freeze"/>
 <text class="p c1" x="1.6" y="77.1">.</text>
 <text class="p c2" x="4.8" y="77.1">ｾ</text>
 <text class="p c2" x="8.1" y="77.1">ﾛ</text>
@@ -2250,7 +2250,7 @@
 <text class="p c1" x="331.1" y="77.1">0</text>
 <text class="p c2" x="334.3" y="77.1">ｽ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.90s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.90s" fill="freeze"/>
 <text class="p c2" x="1.6" y="80.3">1</text>
 <text class="p c2" x="4.8" y="80.3">ﾉ</text>
 <text class="p c2" x="8.1" y="80.3">ﾊ</text>
@@ -2339,7 +2339,7 @@
 <text class="p c1" x="331.1" y="80.3">:</text>
 <text class="p c2" x="334.3" y="80.3">ﾐ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.93s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.93s" fill="freeze"/>
 <text class="p c2" x="1.6" y="83.6">ｺ</text>
 <text class="p c2" x="4.8" y="83.6">ﾈ</text>
 <text class="p c2" x="8.1" y="83.6">ｱ</text>
@@ -2427,7 +2427,7 @@
 <text class="p c2" x="331.1" y="83.6">ﾖ</text>
 <text class="p c2" x="334.3" y="83.6">ﾄ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.95s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.95s" fill="freeze"/>
 <text class="p c2" x="1.6" y="86.8">ｵ</text>
 <text class="p c2" x="4.8" y="86.8">ﾉ</text>
 <text class="p c3" x="8.1" y="86.8">ﾃ</text>
@@ -2514,7 +2514,7 @@
 <text class="p c1" x="331.1" y="86.8">0</text>
 <text class="p c1" x="334.3" y="86.8">0</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.98s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="0.98s" fill="freeze"/>
 <text class="p c3" x="1.6" y="90.0">ﾌ</text>
 <text class="p c2" x="4.8" y="90.0">ﾛ</text>
 <text class="p c3" x="8.1" y="90.0">ｿ</text>
@@ -2601,7 +2601,7 @@
 <text class="p c1" x="331.1" y="90.0">4</text>
 <text class="p c1" x="334.3" y="90.0">0</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.00s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.00s" fill="freeze"/>
 <text class="p c3" x="1.6" y="93.3">ｷ</text>
 <text class="p c3" x="4.8" y="93.3">ﾆ</text>
 <text class="p c3" x="8.1" y="93.3">ﾆ</text>
@@ -2686,7 +2686,7 @@
 <text class="p c1" x="331.1" y="93.3">3</text>
 <text class="p c1" x="334.3" y="93.3">+</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.03s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.03s" fill="freeze"/>
 <text class="p c3" x="1.6" y="96.5">ｸ</text>
 <text class="p c3" x="4.8" y="96.5">2</text>
 <text class="p c2" x="8.1" y="96.5">ｶ</text>
@@ -2770,7 +2770,7 @@
 <text class="p c1" x="331.1" y="96.5">7</text>
 <text class="p c1" x="334.3" y="96.5">6</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.05s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.05s" fill="freeze"/>
 <text class="p c3" x="1.6" y="99.7">ﾇ</text>
 <text class="p c3" x="4.8" y="99.7">ﾕ</text>
 <text class="p c0" x="8.1" y="99.7">3</text>
@@ -2852,7 +2852,7 @@
 <text class="p c1" x="331.1" y="99.7">2</text>
 <text class="p c1" x="334.3" y="99.7">5</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.07s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.07s" fill="freeze"/>
 <text class="p c3" x="1.6" y="103.0">ﾗ</text>
 <text class="p c3" x="4.8" y="103.0">ｳ</text>
 <text class="p c0" x="50.1" y="103.0">*</text>
@@ -2932,7 +2932,7 @@
 <text class="p c1" x="331.1" y="103.0">8</text>
 <text class="p c1" x="334.3" y="103.0">.</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.10s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.10s" fill="freeze"/>
 <text class="p c3" x="1.6" y="106.2">8</text>
 <text class="p c3" x="4.8" y="106.2">3</text>
 <text class="p c0" x="53.3" y="106.2">:</text>
@@ -3006,7 +3006,7 @@
 <text class="p c1" x="331.1" y="106.2">*</text>
 <text class="p c1" x="334.3" y="106.2">1</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.12s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.12s" fill="freeze"/>
 <text class="p c3" x="1.6" y="109.4">3</text>
 <text class="p c2" x="4.8" y="109.4">ﾀ</text>
 <text class="p c0" x="56.5" y="109.4">0</text>
@@ -3079,7 +3079,7 @@
 <text class="p c1" x="331.1" y="109.4">0</text>
 <text class="p c1" x="334.3" y="109.4">4</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>
 <text class="p c3" x="1.6" y="112.6">4</text>
 <text class="p c3" x="4.8" y="112.6">ｵ</text>
 <text class="p c0" x="50.1" y="112.6">*</text>
@@ -3150,7 +3150,7 @@
 <text class="p c0" x="331.1" y="112.6">1</text>
 <text class="p c0" x="334.3" y="112.6">*</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.18s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.18s" fill="freeze"/>
 <text class="p c3" x="1.6" y="115.9">ﾜ</text>
 <text class="p c3" x="4.8" y="115.9">ｵ</text>
 <text class="p c1" x="8.1" y="115.9">8</text>
@@ -3221,7 +3221,7 @@
 <text class="p c2" x="331.1" y="115.9">ｽ</text>
 <text class="p c1" x="334.3" y="115.9">7</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.20s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.20s" fill="freeze"/>
 <text class="p c1" x="1.6" y="119.1">2</text>
 <text class="p c2" x="4.8" y="119.1">3</text>
 <text class="p c3" x="8.1" y="119.1">ﾒ</text>
@@ -3292,7 +3292,7 @@
 <text class="p c2" x="331.1" y="119.1">ｷ</text>
 <text class="p c2" x="334.3" y="119.1">ﾋ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.23s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.23s" fill="freeze"/>
 <text class="p c0" x="1.6" y="122.3">8</text>
 <text class="p c0" x="4.8" y="122.3">+</text>
 <text class="p c2" x="8.1" y="122.3">ﾑ</text>
@@ -3362,7 +3362,7 @@
 <text class="p c2" x="331.1" y="122.3">ｷ</text>
 <text class="p c2" x="334.3" y="122.3">ｶ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.25s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.25s" fill="freeze"/>
 <text class="p c2" x="1.6" y="125.6">ﾖ</text>
 <text class="p c0" x="4.8" y="125.6">:</text>
 <text class="p c0" x="8.1" y="125.6">5</text>
@@ -3422,7 +3422,7 @@
 <text class="p c2" x="331.1" y="125.6">ﾝ</text>
 <text class="p c2" x="334.3" y="125.6">ｵ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.28s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.28s" fill="freeze"/>
 <text class="p c2" x="1.6" y="128.8">ﾂ</text>
 <text class="p c3" x="4.8" y="128.8">2</text>
 <text class="p c1" x="8.1" y="128.8">.</text>
@@ -3483,7 +3483,7 @@
 <text class="p c2" x="331.1" y="128.8">ﾇ</text>
 <text class="p c2" x="334.3" y="128.8">ﾏ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.30s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.30s" fill="freeze"/>
 <text class="p c0" x="14.5" y="132.0">8</text>
 <text class="p c0" x="17.8" y="132.0">6</text>
 <text class="p c3" x="21.0" y="132.0">ﾌ</text>
@@ -3535,7 +3535,7 @@
 <text class="p c2" x="331.1" y="132.0">ｽ</text>
 <text class="p c2" x="334.3" y="132.0">ｽ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.33s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.33s" fill="freeze"/>
 <text class="p c1" x="1.6" y="135.3">:</text>
 <text class="p c1" x="4.8" y="135.3">6</text>
 <text class="p c0" x="8.1" y="135.3">6</text>
@@ -3587,7 +3587,7 @@
 <text class="p c3" x="331.1" y="135.3">ｲ</text>
 <text class="p c2" x="334.3" y="135.3">ﾕ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.35s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.35s" fill="freeze"/>
 <text class="p c1" x="1.6" y="138.5">1</text>
 <text class="p c1" x="4.8" y="138.5">9</text>
 <text class="p c1" x="8.1" y="138.5">:</text>
@@ -3637,7 +3637,7 @@
 <text class="p c3" x="331.1" y="138.5">ﾂ</text>
 <text class="p c3" x="334.3" y="138.5">ﾗ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.38s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.38s" fill="freeze"/>
 <text class="p c2" x="1.6" y="141.7">ﾏ</text>
 <text class="p c1" x="4.8" y="141.7">*</text>
 <text class="p c1" x="8.1" y="141.7">.</text>
@@ -3680,7 +3680,7 @@
 <text class="p c1" x="331.1" y="141.7">6</text>
 <text class="p c1" x="334.3" y="141.7">4</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.40s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.40s" fill="freeze"/>
 <text class="p c3" x="1.6" y="144.9">ﾔ</text>
 <text class="p c2" x="4.8" y="144.9">ﾃ</text>
 <text class="p c2" x="8.1" y="144.9">ﾁ</text>
@@ -3718,7 +3718,7 @@
 <text class="p c2" x="331.1" y="144.9">ﾛ</text>
 <text class="p c1" x="334.3" y="144.9">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.43s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.43s" fill="freeze"/>
 <text class="p c1" x="4.8" y="148.2">.</text>
 <text class="p c2" x="8.1" y="148.2">ｳ</text>
 <text class="p c2" x="11.3" y="148.2">ﾂ</text>
@@ -3761,7 +3761,7 @@
 <text class="p c2" x="331.1" y="148.2">ﾌ</text>
 <text class="p c2" x="334.3" y="148.2">ﾁ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/>
 <text class="p c3" x="11.3" y="151.4">8</text>
 <text class="p c3" x="14.5" y="151.4">ｳ</text>
 <text class="p c3" x="17.8" y="151.4">ｵ</text>
@@ -3803,7 +3803,7 @@
 <text class="p c2" x="331.1" y="151.4">ｸ</text>
 <text class="p c2" x="334.3" y="151.4">ﾉ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.48s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.48s" fill="freeze"/>
 <text class="p c1" x="1.6" y="154.6">0</text>
 <text class="p c1" x="4.8" y="154.6">2</text>
 <text class="p c3" x="11.3" y="154.6">ﾍ</text>
@@ -3844,7 +3844,7 @@
 <text class="p c3" x="331.1" y="154.6">ﾜ</text>
 <text class="p c3" x="334.3" y="154.6">ﾛ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.50s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.50s" fill="freeze"/>
 <text class="p c1" x="1.6" y="157.9">6</text>
 <text class="p c1" x="8.1" y="157.9">9</text>
 <text class="p c3" x="11.3" y="157.9">ﾘ</text>
@@ -3884,7 +3884,7 @@
 <text class="p c3" x="331.1" y="157.9">4</text>
 <text class="p c3" x="334.3" y="157.9">ﾙ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.53s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.53s" fill="freeze"/>
 <text class="p c3" x="8.1" y="161.1">ﾇ</text>
 <text class="p c3" x="11.3" y="161.1">ﾘ</text>
 <text class="p c3" x="14.5" y="161.1">ﾈ</text>
@@ -3920,7 +3920,7 @@
 <text class="p c3" x="331.1" y="161.1">ﾖ</text>
 <text class="p c3" x="334.3" y="161.1">ｽ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.55s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.55s" fill="freeze"/>
 <text class="p c0" x="4.8" y="164.3">.</text>
 <text class="p c3" x="8.1" y="164.3">4</text>
 <text class="p c3" x="11.3" y="164.3">ﾃ</text>
@@ -3963,7 +3963,7 @@
 <text class="p c3" x="331.1" y="164.3">ﾎ</text>
 <text class="p c3" x="334.3" y="164.3">ｵ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.58s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.58s" fill="freeze"/>
 <text class="p c2" x="4.8" y="167.6">ﾖ</text>
 <text class="p c3" x="8.1" y="167.6">ｺ</text>
 <text class="p c3" x="11.3" y="167.6">1</text>
@@ -4005,7 +4005,7 @@
 <text class="p c1" x="331.1" y="167.6">9</text>
 <text class="p c3" x="334.3" y="167.6">7</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/>
 <text class="p c1" x="4.8" y="170.8">0</text>
 <text class="p c3" x="8.1" y="170.8">ﾇ</text>
 <text class="p c2" x="11.3" y="170.8">ﾗ</text>
@@ -4049,7 +4049,7 @@
 <text class="p c4" x="302.0" y="170.8">ﾃ</text>
 <text class="p c2" x="334.3" y="170.8">ｺ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.63s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.63s" fill="freeze"/>
 <text class="p c2" x="4.8" y="174.0">ﾓ</text>
 <text class="p c3" x="8.1" y="174.0">ﾁ</text>
 <text class="p c2" x="11.3" y="174.0">1</text>
@@ -4095,7 +4095,7 @@
 <text class="p c3" x="298.8" y="174.0">ｾ</text>
 <text class="p c4" x="302.0" y="174.0">ﾚ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.65s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.65s" fill="freeze"/>
 <text class="p c3" x="4.8" y="177.2">ﾊ</text>
 <text class="p c2" x="8.1" y="177.2">ﾜ</text>
 <text class="p c2" x="11.3" y="177.2">ｸ</text>
@@ -4146,7 +4146,7 @@
 <text class="p c3" x="298.8" y="177.2">ｲ</text>
 <text class="p c3" x="302.0" y="177.2">ｳ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.68s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.68s" fill="freeze"/>
 <text class="p c3" x="4.8" y="180.5">ﾆ</text>
 <text class="p c2" x="8.1" y="180.5">ﾗ</text>
 <text class="p c2" x="11.3" y="180.5">1</text>
@@ -4212,7 +4212,7 @@
 <text class="p c3" x="298.8" y="180.5">8</text>
 <text class="p c2" x="302.0" y="180.5">ﾕ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.70s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.70s" fill="freeze"/>
 <text class="p c0" x="1.6" y="183.7">3</text>
 <text class="p c3" x="4.8" y="183.7">5</text>
 <text class="p c2" x="8.1" y="183.7">ﾐ</text>
@@ -4288,7 +4288,7 @@
 <text class="p c4" x="295.5" y="183.7">ｻ</text>
 <text class="p c4" x="298.8" y="183.7">ﾓ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.73s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.73s" fill="freeze"/>
 <text class="p c2" x="1.6" y="186.9">ﾙ</text>
 <text class="p c2" x="4.8" y="186.9">ﾇ</text>
 <text class="p c2" x="8.1" y="186.9">ﾝ</text>
@@ -4365,7 +4365,7 @@
 <text class="p c4" x="298.8" y="186.9">ｾ</text>
 <text class="p c3" x="302.0" y="186.9">ｵ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.75s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.75s" fill="freeze"/>
 <text class="p c2" x="1.6" y="190.2">ｳ</text>
 <text class="p c2" x="4.8" y="190.2">ﾌ</text>
 <text class="p c2" x="8.1" y="190.2">ｽ</text>
@@ -4444,7 +4444,7 @@
 <text class="p c1" x="327.8" y="190.2">*</text>
 <text class="p c0" x="331.1" y="190.2">8</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.78s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.78s" fill="freeze"/>
 <text class="p c2" x="1.6" y="193.4">ﾉ</text>
 <text class="p c2" x="4.8" y="193.4">ｽ</text>
 <text class="p c2" x="8.1" y="193.4">ﾐ</text>
@@ -4517,7 +4517,7 @@
 <text class="p c4" x="302.0" y="193.4">ﾈ</text>
 <text class="p c4" x="305.2" y="193.4">ﾗ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.80s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.80s" fill="freeze"/>
 <text class="p c2" x="1.6" y="196.6">ﾙ</text>
 <text class="p c2" x="4.8" y="196.6">0</text>
 <text class="p c2" x="8.1" y="196.6">7</text>
@@ -4579,7 +4579,7 @@
 <text class="p c4" x="305.2" y="196.6">ﾘ</text>
 <text class="p c3" x="308.5" y="196.6">ﾎ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.83s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.83s" fill="freeze"/>
 <text class="p c2" x="1.6" y="199.9">ﾑ</text>
 <text class="p c2" x="4.8" y="199.9">ﾀ</text>
 <text class="p c2" x="8.1" y="199.9">ﾇ</text>
@@ -4638,7 +4638,7 @@
 <text class="p c3" x="305.2" y="199.9">ﾐ</text>
 <text class="p c4" x="308.5" y="199.9">ﾘ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.85s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.85s" fill="freeze"/>
 <text class="p c2" x="1.6" y="203.1">ﾗ</text>
 <text class="p c2" x="4.8" y="203.1">ﾃ</text>
 <text class="p c2" x="8.1" y="203.1">ﾌ</text>
@@ -4693,7 +4693,7 @@
 <text class="p c4" x="308.5" y="203.1">ﾓ</text>
 <text class="p c3" x="311.7" y="203.1">ﾏ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.88s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.88s" fill="freeze"/>
 <text class="p c1" x="1.6" y="206.3">:</text>
 <text class="p c2" x="4.8" y="206.3">ｹ</text>
 <text class="p c2" x="8.1" y="206.3">ﾔ</text>
@@ -4746,7 +4746,7 @@
 <text class="p c3" x="308.5" y="206.3">ﾇ</text>
 <text class="p c4" x="311.7" y="206.3">ﾇ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.90s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.90s" fill="freeze"/>
 <text class="p c2" x="1.6" y="209.5">ﾈ</text>
 <text class="p c2" x="4.8" y="209.5">5</text>
 <text class="p c2" x="8.1" y="209.5">ﾑ</text>
@@ -4799,7 +4799,7 @@
 <text class="p c3" x="308.5" y="209.5">ﾖ</text>
 <text class="p c3" x="311.7" y="209.5">5</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.93s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.93s" fill="freeze"/>
 <text class="p c1" x="1.6" y="212.8">5</text>
 <text class="p c1" x="4.8" y="212.8">9</text>
 <text class="p c1" x="8.1" y="212.8">.</text>
@@ -4859,7 +4859,7 @@
 <text class="p c3" x="308.5" y="212.8">ｳ</text>
 <text class="p c2" x="311.7" y="212.8">ﾄ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.95s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.95s" fill="freeze"/>
 <text class="p c1" x="1.6" y="216.0">:</text>
 <text class="p c1" x="4.8" y="216.0">*</text>
 <text class="p c2" x="8.1" y="216.0">ｲ</text>
@@ -4907,7 +4907,7 @@
 <text class="p c3" x="308.5" y="216.0">ﾇ</text>
 <text class="p c3" x="311.7" y="216.0">ﾏ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="1.98s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="1.98s" fill="freeze"/>
 <text class="p c1" x="1.6" y="219.2">1</text>
 <text class="p c1" x="4.8" y="219.2">7</text>
 <text class="p c2" x="8.1" y="219.2">ﾂ</text>
@@ -4963,7 +4963,7 @@
 <text class="p c0" x="321.4" y="219.2">3</text>
 <text class="p c0" x="324.6" y="219.2">3</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.00s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.00s" fill="freeze"/>
 <text class="p c1" x="1.6" y="222.5">2</text>
 <text class="p c1" x="4.8" y="222.5">5</text>
 <text class="p c2" x="8.1" y="222.5">ｹ</text>
@@ -5027,7 +5027,7 @@
 <text class="p c3" x="324.6" y="222.5">ﾆ</text>
 <text class="p c1" x="327.8" y="222.5">1</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.02s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.02s" fill="freeze"/>
 <text class="p c1" x="1.6" y="225.7">5</text>
 <text class="p c2" x="4.8" y="225.7">ｼ</text>
 <text class="p c2" x="8.1" y="225.7">ﾌ</text>
@@ -5088,7 +5088,7 @@
 <text class="p c2" x="324.6" y="225.7">5</text>
 <text class="p c3" x="327.8" y="225.7">6</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.05s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.05s" fill="freeze"/>
 <text class="p c2" x="1.6" y="228.9">ﾃ</text>
 <text class="p c2" x="4.8" y="228.9">ｶ</text>
 <text class="p c2" x="8.1" y="228.9">ﾎ</text>
@@ -5146,7 +5146,7 @@
 <text class="p c2" x="324.6" y="228.9">ﾚ</text>
 <text class="p c2" x="327.8" y="228.9">ﾆ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.08s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.08s" fill="freeze"/>
 <text class="p c2" x="1.6" y="232.2">ｱ</text>
 <text class="p c2" x="4.8" y="232.2">ﾕ</text>
 <text class="p c2" x="8.1" y="232.2">4</text>
@@ -5203,7 +5203,7 @@
 <text class="p c2" x="324.6" y="232.2">ﾔ</text>
 <text class="p c2" x="327.8" y="232.2">ﾂ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.10s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.10s" fill="freeze"/>
 <text class="p c2" x="1.6" y="235.4">ﾝ</text>
 <text class="p c2" x="4.8" y="235.4">5</text>
 <text class="p c2" x="8.1" y="235.4">ｸ</text>
@@ -5249,7 +5249,7 @@
 <text class="p c3" x="324.6" y="235.4">ｱ</text>
 <text class="p c0" x="327.8" y="235.4">4</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.12s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.12s" fill="freeze"/>
 <text class="p c2" x="1.6" y="238.6">ﾝ</text>
 <text class="p c2" x="4.8" y="238.6">ﾁ</text>
 <text class="p c2" x="8.1" y="238.6">ｺ</text>
@@ -5287,7 +5287,7 @@
 <text class="p c2" x="321.4" y="238.6">ﾗ</text>
 <text class="p c1" x="324.6" y="238.6">5</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.15s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.15s" fill="freeze"/>
 <text class="p c2" x="1.6" y="241.8">2</text>
 <text class="p c2" x="4.8" y="241.8">ﾐ</text>
 <text class="p c2" x="8.1" y="241.8">ｳ</text>
@@ -5319,7 +5319,7 @@
 <text class="p c1" x="318.2" y="241.8">6</text>
 <text class="p c2" x="321.4" y="241.8">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.17s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.17s" fill="freeze"/>
 <text class="p c2" x="1.6" y="245.1">ﾚ</text>
 <text class="p c1" x="4.8" y="245.1">.</text>
 <text class="p c0" x="63.0" y="245.1">*</text>
@@ -5348,7 +5348,7 @@
 <text class="p c1" x="314.9" y="245.1">4</text>
 <text class="p c2" x="318.2" y="245.1">ｱ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.20s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.20s" fill="freeze"/>
 <text class="p c0" x="1.6" y="248.3">.</text>
 <text class="p c0" x="59.8" y="248.3">5</text>
 <text class="p c0" x="63.0" y="248.3">0</text>
@@ -5376,7 +5376,7 @@
 <text class="p c2" x="314.9" y="248.3">ﾁ</text>
 <text class="p c1" x="318.2" y="248.3">7</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.23s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.23s" fill="freeze"/>
 <text class="p c0" x="56.5" y="251.5">4</text>
 <text class="p c0" x="59.8" y="251.5">8</text>
 <text class="p c0" x="63.0" y="251.5">9</text>
@@ -5404,7 +5404,7 @@
 <text class="p c2" x="311.7" y="251.5">ﾇ</text>
 <text class="p c1" x="314.9" y="251.5">:</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.25s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.25s" fill="freeze"/>
 <text class="p c1" x="27.5" y="254.8">+</text>
 <text class="p c0" x="53.3" y="254.8">:</text>
 <text class="p c0" x="56.5" y="254.8">0</text>
@@ -5440,7 +5440,7 @@
 <text class="p c2" x="308.5" y="254.8">ﾇ</text>
 <text class="p c2" x="311.7" y="254.8">ｻ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.27s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.27s" fill="freeze"/>
 <text class="p c0" x="17.8" y="258.0">.</text>
 <text class="p c2" x="21.0" y="258.0">ｷ</text>
 <text class="p c2" x="24.2" y="258.0">ﾋ</text>
@@ -5489,7 +5489,7 @@
 <text class="p c2" x="308.5" y="258.0">ﾑ</text>
 <text class="p c1" x="311.7" y="258.0">3</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.30s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.30s" fill="freeze"/>
 <text class="p c1" x="11.3" y="261.2">8</text>
 <text class="p c2" x="14.5" y="261.2">ﾖ</text>
 <text class="p c3" x="17.8" y="261.2">ｳ</text>
@@ -5543,7 +5543,7 @@
 <text class="p c2" x="308.5" y="261.2">6</text>
 <text class="p c0" x="311.7" y="261.2">8</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.32s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.32s" fill="freeze"/>
 <text class="p c1" x="4.8" y="264.5">5</text>
 <text class="p c2" x="8.1" y="264.5">ﾕ</text>
 <text class="p c3" x="11.3" y="264.5">ﾜ</text>
@@ -5598,7 +5598,7 @@
 <text class="p c2" x="305.2" y="264.5">ﾝ</text>
 <text class="p c2" x="308.5" y="264.5">ｸ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.35s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.35s" fill="freeze"/>
 <text class="p c2" x="1.6" y="267.7">ｳ</text>
 <text class="p c2" x="4.8" y="267.7">ｻ</text>
 <text class="p c2" x="8.1" y="267.7">ﾎ</text>
@@ -5656,7 +5656,7 @@
 <text class="p c2" x="305.2" y="267.7">ｺ</text>
 <text class="p c1" x="308.5" y="267.7">9</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.38s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.38s" fill="freeze"/>
 <text class="p c2" x="1.6" y="270.9">ﾅ</text>
 <text class="p c2" x="4.8" y="270.9">ﾖ</text>
 <text class="p c2" x="8.1" y="270.9">ﾊ</text>
@@ -5718,7 +5718,7 @@
 <text class="p c2" x="302.0" y="270.9">ｾ</text>
 <text class="p c2" x="305.2" y="270.9">ｹ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.40s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.40s" fill="freeze"/>
 <text class="p c2" x="1.6" y="274.2">ﾉ</text>
 <text class="p c2" x="4.8" y="274.2">ﾙ</text>
 <text class="p c0" x="33.9" y="274.2">*</text>
@@ -5779,7 +5779,7 @@
 <text class="p c2" x="302.0" y="274.2">ﾖ</text>
 <text class="p c2" x="305.2" y="274.2">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.42s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.42s" fill="freeze"/>
 <text class="p c1" x="1.6" y="277.4">:</text>
 <text class="p c0" x="30.7" y="277.4">1</text>
 <text class="p c0" x="33.9" y="277.4">4</text>
@@ -5844,7 +5844,7 @@
 <text class="p c2" x="302.0" y="277.4">ﾊ</text>
 <text class="p c0" x="305.2" y="277.4">:</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.45s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.45s" fill="freeze"/>
 <text class="p c0" x="27.5" y="280.6">6</text>
 <text class="p c3" x="66.2" y="280.6">1</text>
 <text class="p c3" x="69.4" y="280.6">ﾗ</text>
@@ -5910,7 +5910,7 @@
 <text class="p c2" x="298.8" y="280.6">ｿ</text>
 <text class="p c2" x="302.0" y="280.6">ﾕ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.48s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.48s" fill="freeze"/>
 <text class="p c0" x="24.2" y="283.8">+</text>
 <text class="p c3" x="66.2" y="283.8">ｾ</text>
 <text class="p c3" x="69.4" y="283.8">ｺ</text>
@@ -5973,7 +5973,7 @@
 <text class="p c2" x="298.8" y="283.8">8</text>
 <text class="p c0" x="302.0" y="283.8">.</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.50s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.50s" fill="freeze"/>
 <text class="p c1" x="63.0" y="287.1">6</text>
 <text class="p c3" x="66.2" y="287.1">ｹ</text>
 <text class="p c2" x="69.4" y="287.1">ﾓ</text>
@@ -6036,7 +6036,7 @@
 <text class="p c2" x="295.5" y="287.1">ﾓ</text>
 <text class="p c2" x="298.8" y="287.1">ﾉ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.52s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.52s" fill="freeze"/>
 <text class="p c2" x="63.0" y="290.3">ｽ</text>
 <text class="p c3" x="66.2" y="290.3">ｽ</text>
 <text class="p c2" x="69.4" y="290.3">ﾃ</text>
@@ -6097,7 +6097,7 @@
 <text class="p c1" x="292.3" y="290.3">5</text>
 <text class="p c2" x="295.5" y="290.3">ﾚ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.55s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.55s" fill="freeze"/>
 <text class="p c3" x="63.0" y="293.5">ﾝ</text>
 <text class="p c3" x="66.2" y="293.5">ｶ</text>
 <text class="p c2" x="69.4" y="293.5">ｶ</text>
@@ -6153,7 +6153,7 @@
 <text class="p c2" x="292.3" y="293.5">ｸ</text>
 <text class="p c0" x="295.5" y="293.5">+</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.57s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.57s" fill="freeze"/>
 <text class="p c2" x="63.0" y="296.8">9</text>
 <text class="p c3" x="66.2" y="296.8">9</text>
 <text class="p c3" x="69.4" y="296.8">ﾓ</text>
@@ -6208,7 +6208,7 @@
 <text class="p c2" x="289.1" y="296.8">ｷ</text>
 <text class="p c1" x="292.3" y="296.8">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.60s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.60s" fill="freeze"/>
 <text class="p c2" x="59.8" y="300.0">6</text>
 <text class="p c1" x="63.0" y="300.0">.</text>
 <text class="p c1" x="69.4" y="300.0">*</text>
@@ -6262,7 +6262,7 @@
 <text class="p c1" x="285.9" y="300.0">2</text>
 <text class="p c1" x="289.1" y="300.0">6</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.62s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.62s" fill="freeze"/>
 <text class="p c3" x="59.8" y="303.2">ﾑ</text>
 <text class="p c3" x="63.0" y="303.2">ﾂ</text>
 <text class="p c3" x="66.2" y="303.2">ﾘ</text>
@@ -6312,7 +6312,7 @@
 <text class="p c1" x="282.6" y="303.2">7</text>
 <text class="p c0" x="285.9" y="303.2">8</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.65s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.65s" fill="freeze"/>
 <text class="p c0" x="56.5" y="306.5">*</text>
 <text class="p c2" x="59.8" y="306.5">ｵ</text>
 <text class="p c2" x="63.0" y="306.5">ﾏ</text>
@@ -6358,7 +6358,7 @@
 <text class="p c0" x="272.9" y="306.5">8</text>
 <text class="p c1" x="276.2" y="306.5">+</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.67s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.67s" fill="freeze"/>
 <text class="p c2" x="56.5" y="309.7">ｾ</text>
 <text class="p c2" x="59.8" y="309.7">ｳ</text>
 <text class="p c1" x="63.0" y="309.7">*</text>
@@ -6402,7 +6402,7 @@
 <text class="p c1" x="269.7" y="309.7">+</text>
 <text class="p c0" x="272.9" y="309.7">7</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.70s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.70s" fill="freeze"/>
 <text class="p c2" x="56.5" y="312.9">3</text>
 <text class="p c1" x="59.8" y="312.9">+</text>
 <text class="p c1" x="63.0" y="312.9">7</text>
@@ -6446,7 +6446,7 @@
 <text class="p c1" x="269.7" y="312.9">4</text>
 <text class="p c1" x="272.9" y="312.9">:</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.73s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.73s" fill="freeze"/>
 <text class="p c1" x="53.3" y="316.1">:</text>
 <text class="p c3" x="56.5" y="316.1">ﾗ</text>
 <text class="p c1" x="59.8" y="316.1">:</text>
@@ -6494,7 +6494,7 @@
 <text class="p c1" x="269.7" y="316.1">6</text>
 <text class="p c1" x="272.9" y="316.1">1</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.75s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.75s" fill="freeze"/>
 <text class="p c0" x="53.3" y="319.4">5</text>
 <text class="p c1" x="56.5" y="319.4">6</text>
 <text class="p c2" x="59.8" y="319.4">ﾇ</text>
@@ -6540,7 +6540,7 @@
 <text class="p c2" x="269.7" y="319.4">ﾑ</text>
 <text class="p c1" x="272.9" y="319.4">0</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.77s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.77s" fill="freeze"/>
 <text class="p c1" x="50.1" y="322.6">6</text>
 <text class="p c3" x="53.3" y="322.6">ﾋ</text>
 <text class="p c0" x="56.5" y="322.6">1</text>
@@ -6589,7 +6589,7 @@
 <text class="p c2" x="266.5" y="322.6">ﾄ</text>
 <text class="p c2" x="269.7" y="322.6">8</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.80s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.80s" fill="freeze"/>
 <text class="p c0" x="4.8" y="325.8">4</text>
 <text class="p c2" x="50.1" y="325.8">ｹ</text>
 <text class="p c3" x="53.3" y="325.8">ﾅ</text>
@@ -6644,7 +6644,7 @@
 <text class="p c2" x="266.5" y="325.8">ｻ</text>
 <text class="p c1" x="269.7" y="325.8">1</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.83s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.83s" fill="freeze"/>
 <text class="p c0" x="4.8" y="329.1">1</text>
 <text class="p c0" x="8.1" y="329.1">7</text>
 <text class="p c0" x="30.7" y="329.1">+</text>
@@ -6710,7 +6710,7 @@
 <text class="p c2" x="263.2" y="329.1">ﾅ</text>
 <text class="p c2" x="266.5" y="329.1">ﾝ</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.85s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.85s" fill="freeze"/>
 <text class="p c0" x="8.1" y="332.3">3</text>
 <text class="p c0" x="11.3" y="332.3">1</text>
 <text class="p c0" x="30.7" y="332.3">4</text>
@@ -6778,7 +6778,7 @@
 <text class="p c2" x="263.2" y="332.3">6</text>
 <text class="p c0" x="266.5" y="332.3">2</text>
 </g>
-<g opacity="0"><set attributeName="opacity" to="1" begin="2.88s" fill="freeze"/>
+<g opacity="1"><set attributeName="opacity" to="1" begin="2.88s" fill="freeze"/>
 <text class="p c0" x="8.1" y="335.5">7</text>
 <text class="p c0" x="11.3" y="335.5">6</text>
 <text class="p c0" x="14.5" y="335.5">:</text>
@@ -6865,4 +6865,4 @@
 </g>
 <text x="28" y="446" fill="#00ff41">vinn@github<tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
 <rect x="187" y="431" width="10" height="18" fill="#00ff41"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
-</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowMmQwYWE4OC0yOGY1LTQ5MWEtOTE2MS0zNTc4ZDExOGQ5YTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaL6Tfv24wC9QbkY/ngibAKgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxYjhmYTcwMC04NDRjLTRkMWUtYmUxOS1jNGFmMGZlNTYzZTNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNorGq52fiC9vAxylWCyVF7wQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggjv/jFPkw4QwR5JGXdonjQ6Tov/e7yDsYKZtxG0LvCRmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEc3YoWKRZhdeJsxTZxOGjkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRKAAAAAAAAAAAAAGRoYXNoWCDCqWBY5FMrq2fxo/xth2F7RC2Z7efBraWXkWZ13uEKBWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBoABRUsZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjAyZDBhYTg4LTI4ZjUtNDkxYS05MTYxLTM1NzhkMTE4ZDlhMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU3YmI4OGFhLWFlNDctNDJiOS05ZmRjLTBhNjcyOTRhY2E4MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCO/+MU+TDhDBHkkZd2ieNDpOi/97vIOxgpm3EbQu8JGaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfvlX/6EkJ2kDe3U6ns5bYYVddM7GCS54xqvU9TMAwS6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggpBlDgwYwCOyqdAy5EFa4PbdKbWBWAE62nmnczLBAGB90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBfoB5GNrB/GbCduFGuYxSnJJpRPaOO9HQixJbjIbvWX2IFBhqWOWEF+mDp1kEgPv+pCnHIiqyPbUVy1cwW+CN0=</c2pa:manifest></metadata></svg>
+</g></svg>
