@@ -1,0 +1,43 @@
+name: Refresh live contribution graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/matrix-contributions.svg"
+      - "scripts/update-contributions.py"
+      - ".github/workflows/update-contributions.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh contribution cells from GitHub
+        run: python scripts/update-contributions.py
+
+      - name: Commit refreshed graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/matrix-contributions.svg; then
+            echo "Contribution graph is already up to date."
+            exit 0
+          fi
+          git add assets/matrix-contributions.svg
+          git commit -m "chore: refresh live contribution graph"
+          git push
