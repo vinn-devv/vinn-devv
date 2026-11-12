@@ -81,23 +81,40 @@ def main():
 
     def update_cell(match):
         nonlocal updated
-        tag = match.group(0)
-        attrs = attributes(tag)
+        attrs_text = match.group(1)
+        inner = match.group(2)
+        attrs = attributes("<rect" + attrs_text + ">")
         try:
             x = int(float(attrs.get("x", "-1")))
             y = int(float(attrs.get("y", "-1")))
         except ValueError:
-            return tag
+            return match.group(0)
         if x not in x_positions or y not in y_positions:
-            return tag
+            return match.group(0)
+
         column = x_positions[x]
         row = y_positions[y]
-        fill = COLORS[level(grid[column][row])]
-        tag = re.sub(r'\bfill="[^"]*"', f'fill="{fill}"', tag, count=1)
-        updated += 1
-        return tag
+        intensity = level(grid[column][row])
+        fill = COLORS[intensity]
+        attrs_text = re.sub(r'\\bfill="[^"]*"', f'fill="{fill}"', attrs_text, count=1)
+        attrs_text = re.sub(r'\\s+filter="[^"]*"', "", attrs_text)
+        inner = re.sub(
+            r'<animate\\b(?=[^>]*attributeName="fill")[^>]*/>', "", inner
+        )
+        if intensity == 4:
+            attrs_text += ' filter="url(#glow)"'
+            inner += (
+                '<animate attributeName="fill" '
+                'values="#39ff14;#b6ffa8;#39ff14" '
+                'dur="3.5s" begin="0s" repeatCount="indefinite"/>'
+            )
 
-    content = re.sub(r"<rect\b[^>]*>", update_cell, content)
+        updated += 1
+        return "<rect" + attrs_text + ">" + inner + "</rect>"
+
+    content = re.sub(
+        r"<rect\\b([^>]*)>(.*?)</rect>", update_cell, content, flags=re.S
+    )
     expected = WEEKS * 7
     if updated != expected:
         raise RuntimeError(f"Expected to update {expected} grid cells, updated {updated}.")
