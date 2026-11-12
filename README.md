@@ -64,6 +64,21 @@
   <img height="48" width="48" alt="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
 </p>
 
+### Frameworks & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Expo%20Router-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Router">
+  <img src="https://img.shields.io/badge/React%20Navigation-6B4EFF?style=flat-square&logo=reactnavigation&logoColor=white" alt="React Navigation">
+  <img src="https://img.shields.io/badge/React%20Native%20Reanimated-663399?style=flat-square&logo=react&logoColor=white" alt="React Native Reanimated">
+  <img src="https://img.shields.io/badge/Gesture%20Handler-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native Gesture Handler">
+  <img src="https://img.shields.io/badge/Expo%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="Expo SQLite">
+  <img src="https://img.shields.io/badge/Expo%20Camera-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Camera">
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottie&logoColor=white" alt="Lottie">
+  <img src="https://img.shields.io/badge/Expo%20Blur-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Blur">
+  <img src="https://img.shields.io/badge/Linear%20Gradient-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo Linear Gradient">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
+
 ### Backend & Runtime
 
 <p align="center">
@@ -89,6 +104,15 @@
   <img height="48" width="48" alt="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
   <img height="48" width="48" alt="Render" src="https://cdn.simpleicons.org/render/ffffff">
   <img height="48" width="48" alt="Expo Application Services" src="https://cdn.simpleicons.org/expo/ffffff">
+</p>
+
+### Testing & Code Quality
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js%20Test%20Runner-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js test runner">
+  <img src="https://img.shields.io/badge/TypeScript%20Type%20Checking-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript type checking">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/Expo%20Diagnostics-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo diagnostics">
 </p>
 
 ### Development & Design Tools
