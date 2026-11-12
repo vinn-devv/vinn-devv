@@ -1,5 +1,3 @@
-<h1 align="center">Hey <img height="30" width="30" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt=""> I'm Vinn</h1>
-
 <p align="center">
   <img src="./banner-github.gif" width="100%" alt="Animated GitHub profile banner">
 </p>
