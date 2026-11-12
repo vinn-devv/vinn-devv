@@ -17,7 +17,7 @@ vinn@github:~$ neofetch
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/neofetch-profile.svg" width="100%" alt="neofetch style terminal showing Vinn's profile" />
+  <img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/neofetch.svg" width="100%" alt="neofetch style terminal showing Vinn's profile" />
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
