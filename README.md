@@ -23,25 +23,12 @@ PS C:\Users\Vinn> neofetch
 <div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ```powershell
-PS C:\Users\Vinn> ls -la ~/projects
+PS C:\\Users\\Vinn> ls -la ~/projects
 ```
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/permissions-drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="Directory permissions" />
-<img src="https://img.shields.io/badge/project-neon--green-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="Project directory listing" />
-<img src="https://img.shields.io/badge/description-9DFFB5?style=flat-square&labelColor=0D1117&color=30363D" alt="Project descriptions" />
-
+  <img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/projects-terminal.svg" width="100%" alt="Animated Matrix terminal listing six GitHub projects with clickable repository names" />
 </div>
-
-| <sub>PERMISSIONS</sub> | <sub>PROJECT</sub> | <sub>DESCRIPTION</sub> |
-|:--|:--|:--|
-| <img src="https://img.shields.io/badge/drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="drwxr-xr-x" /> | [![gastador](https://img.shields.io/badge/gastador-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](https://github.com/vinn-devv/gastador) | <sub>Allowance budget tracker for students</sub> |
-| <img src="https://img.shields.io/badge/drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="drwxr-xr-x" /> | [![Weather-App](https://img.shields.io/badge/Weather--App-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](https://github.com/vinn-devv/Weather-App) | <sub>Weather app in vanilla HTML, CSS and JS</sub> |
-| <img src="https://img.shields.io/badge/drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="drwxr-xr-x" /> | [![inventra](https://img.shields.io/badge/inventra-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](https://github.com/vinn-devv/inventra) | <sub>PHP and MySQL inventory management system</sub> |
-| <img src="https://img.shields.io/badge/drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="drwxr-xr-x" /> | [![javascript-reaction-challenge](https://img.shields.io/badge/javascript--reaction--challenge-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](https://github.com/vinn-devv/javascript-reaction-challenge) | <sub>Reaction-time game</sub> |
-| <img src="https://img.shields.io/badge/drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="drwxr-xr-x" /> | [![javascript-github-profile-finder](https://img.shields.io/badge/javascript--github--profile--finder-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](https://github.com/vinn-devv/javascript-github-profile-finder) | <sub>Search any GitHub profile</sub> |
-| <img src="https://img.shields.io/badge/drwxr--xr--x-00FF41?style=flat-square&labelColor=0D1117&color=00FF41" alt="drwxr-xr-x" /> | [![My-To-do-List](https://img.shields.io/badge/My--To--do--List-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](https://github.com/vinn-devv/My-To-do-List) | <sub>Simple to-do list app</sub> |
 
 <div align="center"><img src="https://raw.githubusercontent.com/vinn-devv/vinn-devv/main/assets/divider.svg" width="100%" alt="" /></div>
 
